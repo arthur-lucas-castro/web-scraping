@@ -1,0 +1,2 @@
+* * * * * /bin/bash /project-directory/scraping.sh >> /project-directory/cron.log 2>&1
+* * * * * sleep 10 && /usr/local/bin/python /project-directory/clean_data.py >> /project-directory/cron.log 2>&1
