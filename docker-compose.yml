@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  node-api:
+    build: 
+      context: ./api_node
+      dockerfile: dockerfile
+    container_name: node-api
+    ports:
+      - "3000:3000"
+    networks:
+      - my-network
+
+  python-post:
+    build: 
+      context: .
+      dockerfile: dockerfile
+    container_name: python-post
+    networks:
+      - my-network
+    depends_on:
+      - node-api
+
+networks:
+  my-network:
+    driver: bridge

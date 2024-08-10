@@ -1,0 +1,20 @@
+# Use uma imagem oficial do Node.js como base
+FROM node:18-alpine
+
+# Defina o diretório de trabalho na imagem
+WORKDIR /usr/src/app
+
+# Copie o package.json e package-lock.json (se existir)
+COPY package*.json ./
+
+# Instale as dependências do projeto
+RUN npm install
+
+# Copie todo o código da aplicação para o diretório de trabalho
+COPY . .
+
+# Expõe a porta que a aplicação vai utilizar
+EXPOSE 3000
+
+# Defina o comando padrão para iniciar a aplicação
+CMD ["node", "server.js"]
