@@ -77,75 +77,74 @@ window._sp_ = {
 <meta property="og:type" content="article" />
 <meta property="og:image" content="https://tmssl.akamaized.net/images/tm_logo.png" />
 <meta property="og:description" content="" />
-<meta property="og:title" content="Campeonato Brasileiro Série A - Jogadores mais valiosos 2024 (Visão detalhada)" />
-<meta property="og:url" content="https://www.transfermarkt.com.br/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.world/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="ro" rel="alternate" href="https://www.transfermarkt.ro/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="el-GR" rel="alternate" href="https://www.transfermarkt.gr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="ko-KR" rel="alternate" href="https://www.transfermarkt.co.kr/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.pe/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" />
-<link rel="next" href="https://www.transfermarkt.com.br/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/page/2" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1722867825" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-main.min.css?lm=1722868414" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1722867825" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1722867825" media="print" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/wettbewerb.css?lm=1722867825" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/statistiken.css?lm=1722867825" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1722867825" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1722867825" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-club-profile.min.css?lm=1722868414" />
-<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/paginator.css?lm=1722867825" />
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1722867798"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1722867799"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.bxslider.js?lm=1722867798"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/jquery.scrollTo.min.js?lm=1722867799"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/elinkpagermobile.js?lm=1722867799"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1722867798"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1722867798"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1722867798"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1722867798"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1722867798"></script>
+<meta property="og:title" content="Campeonato Brasileiro Série A - Jogadores sem contrato (Visão detalhada)" />
+<meta property="og:url" content="https://www.transfermarkt.com.br/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.world/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="ro" rel="alternate" href="https://www.transfermarkt.ro/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="el-GR" rel="alternate" href="https://www.transfermarkt.gr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="ko-KR" rel="alternate" href="https://www.transfermarkt.co.kr/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.pe/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1723188213" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-main.min.css?lm=1723188752" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1723188213" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1723188213" media="print" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/wettbewerb.css?lm=1723188213" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/statistiken.css?lm=1723188212" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1723188213" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1723188213" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/styles/tm-club-profile.min.css?lm=1723188752" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/paginator.css?lm=1723188213" />
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1723188200"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jquery.ba-bbq.min.js?lm=1723188202"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.bxslider.js?lm=1723188200"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/jquery.scrollTo.min.js?lm=1723188202"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/b344ec51bd68be8ed48379c9e69eb01d/js/elinkpagermobile.js?lm=1723188202"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1723188200"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1723188200"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1723188200"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1723188200"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1723188200"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
-console.info("%c [TM-ADs] Initialize Ads on domain .br (wettbewerb/marktwerte)", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Initialize Ads on domain .br (wettbewerb/vertragslosespieler)", "background: #282828; color: #bada55")
 console.info("%c [TM-ADs] Render slot skyscraper (/58778164/d_right_1) for google", "background: #282828; color: #bada55")
 console.info("%c [TM-ADs] Render slot billboard (/58778164/d_top_1) for google", "background: #282828; color: #bada55")
 console.info("%c [TM-ADs] Render slot fullsize_contentad (/58778164/d_bottom_1) for google", "background: #282828; color: #bada55")
@@ -251,11 +250,11 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 console.info("%c [TM-ADs] Render ad slots js for google", "background: #282828; color: #bada55")
-console.info("%c [TM-ADs] Added external ad script https://securepubads.g.doubleclick.net/tag/js/gpt.js for googleadvertising on marktwerte_BRA1", "background: #282828; color: #bada55")
-console.info("%c [TM-ADs] Added external ad script https://c.amazon-adsystem.com/aax2/apstag.js for googleadvertising on marktwerte_BRA1", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Added external ad script https://securepubads.g.doubleclick.net/tag/js/gpt.js for googleadvertising on wettbewerbe_rest", "background: #282828; color: #bada55")
+console.info("%c [TM-ADs] Added external ad script https://c.amazon-adsystem.com/aax2/apstag.js for googleadvertising on wettbewerbe_rest", "background: #282828; color: #bada55")
 /*]]>*/
 </script>
-<title>Campeonato Brasileiro Série A - Jogadores mais valiosos 2024 (Visão detalhada) | Transfermarkt</title>
+<title>Campeonato Brasileiro Série A - Jogadores sem contrato (Visão detalhada) | Transfermarkt</title>
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152.png">
     
 <script type="text/javascript">
@@ -286,9 +285,9 @@ console.info("%c [TM-ADs] Added external ad script https://c.amazon-adsystem.com
                             prop1: 'false',
                             prop2: 'statistik',
                             prop3: 'wettbewerb',
-                            prop4: 'marktwerte',
+                            prop4: 'vertragslosespieler',
                             prop5: 'BRA1',
-                            prop14: 'statistik_wettbewerb_marktwerte_BRA1',
+                            prop14: 'statistik_wettbewerb_vertragslosespieler_BRA1',
                         prop9: window.location.hostname,
             prop10: window.location.href,
         },
@@ -298,8 +297,9 @@ console.info("%c [TM-ADs] Added external ad script https://c.amazon-adsystem.com
             },
             isErrorPage: 'false',
             isHomepage: 'false',
-            name: 'Campeonato Brasileiro Série A - Jogadores mais valiosos 2024 (Visão detalhada) | Transfermarkt',
-            URL: window.location.href
+            name: 'Campeonato Brasileiro Série A - Jogadores sem contrato (Visão detalhada) | Transfermarkt',
+            URL: window.location.href,
+            server: 'web01'
         },
     };
 
@@ -776,18 +776,18 @@ function tmEvent(category, action, label) {
                 <li class="data-header__label">
                     Número de jogadores:
                     <span itemprop="dataItem" class="data-header__content">
-                        639                    </span>
+                        637                    </span>
                 </li>
                 <li class="data-header__label">
                     Estrangeiros:
                     <span itemprop="dataItem" class="data-header__content">
-                        <a href="/campeonato-brasileiro-serie-a/gastarbeiter/wettbewerb/BRA1">129&nbsp;Jogadores</a>&nbsp;&nbsp;<span class="tabellenplatz">20,2%</span>                    </span>
+                        <a href="/campeonato-brasileiro-serie-a/gastarbeiter/wettbewerb/BRA1">130&nbsp;Jogadores</a>&nbsp;&nbsp;<span class="tabellenplatz">20,4%</span>                    </span>
                 </li>
             </ul>
             <ul class="data-header__items">
                 <li class="data-header__label">
                     &oslash;-Valor de mercado:                    <span itemprop="dataItem" class="data-header__content">
-                        2,52 mi. €                    </span>
+                        2,53 mi. €                    </span>
                 </li>
                 <li class="data-header__label">
                                             &oslash;-Idade:
@@ -804,12 +804,12 @@ function tmEvent(category, action, label) {
 
     </div>
 </header>
-<a href="https://onelink.to/websitebanner_br"
+<a href="https://www.transfermarkt.com.br/apostas/serie-a-brasil/"
           target="_blank"
       class="db mt10"
-   onclick="tmEvent('banner', 'https://onelink.to/websitebanner_br', 'd-day-banner');">
+   onclick="tmEvent('banner', 'https://www.transfermarkt.com.br/apostas/serie-a-brasil/', 'd-day-banner');">
     <img
-        src="https://dzjovqk3zamsg.cloudfront.net/Quiz_App_Banner_Desktop_BR.jpg"
+        src="https://dzjovqk3zamsg.cloudfront.net/BR_APOSTAS_Sportwettenseite_Banner_Desktop_03.jpg"
         width="1034"
         height="99"
         alt="deadline-day banner">
@@ -824,704 +824,66 @@ function tmEvent(category, action, label) {
     <div class="large-12 columns">
         <div class="box">
             <h1 class="content-box-headline">
-                Jogadores mais valiosos Campeonato Brasileiro Série A            </h1>
-            <div id="statistik-infoblock">
-                <p class="info-content">
-                    -                </p>
-                <div class="content">
-                    <form action="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/plus/1/galerie/0" method="get">                    <div class="row">
-                        <div class="large-12 columns">
-                            <table class="auflistung">
-                                <tbody>
-                                <tr>
-                                    <td>Posição:</td>
-                                    <td>
-                                        <div class="inline-select">
-                                            <select name="pos" data-placeholder="Selecionar posição" class="chzn-select" tabindex="0">
-                                                <option value="">Todas as posições</option>
-                                                <option  value="Torwart">Goleiros</option>
-                                                <option  value="Abwehr">Defensores</option>
-                                                <option  value="Mittelfeld">Meias</option>
-                                                <option  value="Sturm">Atacantes</option>
-                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Posição detalhada:</td>
-                                    <td>
-                                        <div class="inline-select">
-                                            <select name="detailpos" data-placeholder="Selecionar posição" class="chzn-select" tabindex="0">
-                                                <option value="">Todas as posições</option>
-                                                                                                    <option value="1">Goleiro</option>
-                                                                                                    <option value="2">Líbero</option>
-                                                                                                    <option value="3">Zagueiro</option>
-                                                                                                    <option value="4">Lateral Esq.</option>
-                                                                                                    <option value="5">Lateral Dir.</option>
-                                                                                                    <option value="6">Volante</option>
-                                                                                                    <option value="7">Meia Central</option>
-                                                                                                    <option value="8">Meia Direita</option>
-                                                                                                    <option value="9">Meia Esquerda</option>
-                                                                                                    <option value="10">Meia Ofensivo</option>
-                                                                                                    <option value="11">Ponta Esquerda</option>
-                                                                                                    <option value="12">Ponta Direita</option>
-                                                                                                    <option value="13">Seg. Atacante</option>
-                                                                                                    <option value="14">Centroavante</option>
-                                                                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Faixa etária:</td>
-                                    <td>
-                                        <div class="inline-select">
-                                            <select name="altersklasse" data-placeholder="" class="chzn-select" tabindex="0">
-                                                                                                    <option
-                                                        selected="selected"                                                        value="alle">Todas  </option>
-                                                                                                    <option
-                                                                                                                value="u19">u19</option>
-                                                                                                    <option
-                                                                                                                value="u20">u20</option>
-                                                                                                    <option
-                                                                                                                value="u21">u21</option>
-                                                                                                    <option
-                                                                                                                value="u23">u23</option>
-                                                                                                    <option
-                                                                                                                value="23-30">23-30</option>
-                                                                                                    <option
-                                                                                                                value="o30">o30</option>
-                                                                                                    <option
-                                                                                                                value="o32">o32</option>
-                                                                                                    <option
-                                                                                                                value="o34">o34</option>
-                                                                                            </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Nacionalidade:</td>
-                                    <td>
-                                        <div class="inline-select">
-                                            <select name="land_id" data-placeholder="" class="chzn-select" tabindex="0">
-                                                <option value="0">Todas  </option>
-                                                                                                    <option  value="1">Afeganistão</option>
-                                                                                                        <option  value="159">África do Sul</option>
-                                                                                                        <option  value="3">Albânia</option>
-                                                                                                        <option  value="40">Alemanha</option>
-                                                                                                        <option  value="5">Andorra</option>
-                                                                                                        <option  value="6">Angola</option>
-                                                                                                        <option  value="232">Anguilla</option>
-                                                                                                        <option  value="7">Antígua e Barbuda</option>
-                                                                                                        <option  value="227">Antilhas Holandesas</option>
-                                                                                                        <option  value="146">Arábia Saudita</option>
-                                                                                                        <option  value="4">Argélia</option>
-                                                                                                        <option  value="9">Argentina</option>
-                                                                                                        <option  value="10">Arménia</option>
-                                                                                                        <option  value="233">Aruba</option>
-                                                                                                        <option  value="12">Austrália</option>
-                                                                                                        <option  value="127">Áustria</option>
-                                                                                                        <option  value="13">Azerbaijão</option>
-                                                                                                        <option  value="14">Bahamas</option>
-                                                                                                        <option  value="15">Bahrain</option>
-                                                                                                        <option  value="16">Bangladeche</option>
-                                                                                                        <option  value="17">Barbados</option>
-                                                                                                        <option  value="19">Bélgica</option>
-                                                                                                        <option  value="20">Belize</option>
-                                                                                                        <option  value="21">Benim</option>
-                                                                                                        <option  value="211">Bermuda</option>
-                                                                                                        <option  value="18">Bielorrússia</option>
-                                                                                                        <option  value="23">Bolívia</option>
-                                                                                                        <option  value="269">Bonaire</option>
-                                                                                                        <option  value="24">Bósnia-Herzegovina</option>
-                                                                                                        <option  value="25">Botsuana</option>
-                                                                                                        <option  value="26">Brasil</option>
-                                                                                                        <option  value="276">British India</option>
-                                                                                                        <option  value="27">Brunei Darussalam</option>
-                                                                                                        <option  value="28">Bulgária</option>
-                                                                                                        <option  value="29">Burkina Faso</option>
-                                                                                                        <option  value="30">Burundi</option>
-                                                                                                        <option  value="22">Butão</option>
-                                                                                                        <option  value="32">Cabo Verde</option>
-                                                                                                        <option  value="31">Camarões</option>
-                                                                                                        <option  value="79">Camboja</option>
-                                                                                                        <option  value="80">Canadá</option>
-                                                                                                        <option  value="81">Cazaquistão</option>
-                                                                                                        <option  value="171">Chade</option>
-                                                                                                        <option  value="33">Chile</option>
-                                                                                                        <option  value="34">China</option>
-                                                                                                        <option  value="188">Chipre</option>
-                                                                                                        <option  value="83">Colômbia</option>
-                                                                                                        <option  value="35">Comores</option>
-                                                                                                        <option  value="85">Congo</option>
-                                                                                                        <option  value="238">Cookinseln</option>
-                                                                                                        <option  value="86">Coreia do Norte</option>
-                                                                                                        <option  value="87">Coreia do Sul</option>
-                                                                                                        <option  value="38">Costa do Marfim</option>
-                                                                                                        <option  value="36">Costa Rica</option>
-                                                                                                        <option  value="278">Crimeia</option>
-                                                                                                        <option  value="37">Croácia</option>
-                                                                                                        <option  value="88">Cuba</option>
-                                                                                                        <option  value="260">Curacao</option>
-                                                                                                        <option  value="39">Dinamarca</option>
-                                                                                                        <option  value="41">Djibouti</option>
-                                                                                                        <option  value="42">Dominica</option>
-                                                                                                        <option  value="2">Egito</option>
-                                                                                                        <option  value="45">El Salvador</option>
-                                                                                                        <option  value="183">Emirados Árabes Unidos</option>
-                                                                                                        <option  value="44">Equador</option>
-                                                                                                        <option  value="46">Eritreia</option>
-                                                                                                        <option  value="190">Escócia</option>
-                                                                                                        <option  value="154">Eslováquia</option>
-                                                                                                        <option  value="155">Eslovénia</option>
-                                                                                                        <option  value="157">Espanha</option>
-                                                                                                        <option  value="111">Estados Federais da Micronésia</option>
-                                                                                                        <option  value="184">Estados Unidos</option>
-                                                                                                        <option  value="47">Estónia</option>
-                                                                                                        <option  value="162">Eswatini</option>
-                                                                                                        <option  value="11">Etiópia</option>
-                                                                                                        <option  value="48">Fiji</option>
-                                                                                                        <option  value="134">Filipinas</option>
-                                                                                                        <option  value="49">Finlândia</option>
-                                                                                                        <option  value="50">França</option>
-                                                                                                        <option  value="51">Gabão</option>
-                                                                                                        <option  value="52">Gâmbia</option>
-                                                                                                        <option  value="54">Gana</option>
-                                                                                                        <option  value="53">Geórgia</option>
-                                                                                                        <option  value="266">Gibraltar</option>
-                                                                                                        <option  value="55">Granada</option>
-                                                                                                        <option  value="56">Grécia</option>
-                                                                                                        <option  value="243">Gronelândia</option>
-                                                                                                        <option  value="251">Guadalupe</option>
-                                                                                                        <option  value="241">Guam</option>
-                                                                                                        <option  value="58">Guatemala</option>
-                                                                                                        <option  value="271">Guernsey</option>
-                                                                                                        <option  value="61">Guiana</option>
-                                                                                                        <option  value="252">Guiana Francesa</option>
-                                                                                                        <option  value="59">Guiné</option>
-                                                                                                        <option  value="60">Guiné Bissau</option>
-                                                                                                        <option  value="8">Guiné Equatorial</option>
-                                                                                                        <option  value="62">Haiti</option>
-                                                                                                        <option  value="122">Holanda</option>
-                                                                                                        <option  value="66">Honduras</option>
-                                                                                                        <option  value="218">Hong Kong</option>
-                                                                                                        <option  value="178">Hungria</option>
-                                                                                                        <option  value="186">Iémen</option>
-                                                                                                        <option  value="270">Ilha de Man</option>
-                                                                                                        <option  value="248">Ilha Natal</option>
-                                                                                                        <option  value="229">Ilhas Caimão</option>
-                                                                                                        <option  value="250">Ilhas Falkland </option>
-                                                                                                        <option  value="208">Ilhas Faroe</option>
-                                                                                                        <option  value="268">Ilhas Marianas</option>
-                                                                                                        <option  value="257">Ilhas Marshall </option>
-                                                                                                        <option  value="69">Ilhas Salomão</option>
-                                                                                                        <option  value="234">Ilhas Virgens Americanas</option>
-                                                                                                        <option  value="231">Ilhas Virgens Britânicas</option>
-                                                                                                        <option  value="67">Índia</option>
-                                                                                                        <option  value="255">Índia Oriental Holandesa</option>
-                                                                                                        <option  value="68">Indonésia</option>
-                                                                                                        <option  value="189">Inglaterra</option>
-                                                                                                        <option  value="71">Irão</option>
-                                                                                                        <option  value="70">Iraque</option>
-                                                                                                        <option  value="72">Irlanda </option>
-                                                                                                        <option  value="192">Irlanda do Norte</option>
-                                                                                                        <option  value="73">Islândia</option>
-                                                                                                        <option  value="74">Israel</option>
-                                                                                                        <option  value="75">Itália</option>
-                                                                                                        <option  value="76">Jamaica</option>
-                                                                                                        <option  value="77">Japão</option>
-                                                                                                        <option  value="272">Jersey</option>
-                                                                                                        <option  value="78">Jordânia</option>
-                                                                                                        <option  value="258">Jugoslávia (República)</option>
-                                                                                                        <option  value="223">Jugoslávia (SFR)</option>
-                                                                                                        <option  value="246">Kiribati</option>
-                                                                                                        <option  value="244">Kosovo</option>
-                                                                                                        <option  value="89">Kuwait</option>
-                                                                                                        <option  value="91">Laos</option>
-                                                                                                        <option  value="93">Lesoto</option>
-                                                                                                        <option  value="92">Letónia</option>
-                                                                                                        <option  value="94">Líbano</option>
-                                                                                                        <option  value="95">Libéria</option>
-                                                                                                        <option  value="96">Líbia</option>
-                                                                                                        <option  value="97">Liechtenstein</option>
-                                                                                                        <option  value="98">Lituânia</option>
-                                                                                                        <option  value="99">Luxemburgo</option>
-                                                                                                        <option  value="219">Macau</option>
-                                                                                                        <option  value="274">Macedónia</option>
-                                                                                                        <option  value="100">Macedónia do Norte</option>
-                                                                                                        <option  value="101">Madagascar</option>
-                                                                                                        <option  value="103">Malásia</option>
-                                                                                                        <option  value="102">Malawi</option>
-                                                                                                        <option  value="104">Maldivas</option>
-                                                                                                        <option  value="105">Mali</option>
-                                                                                                        <option  value="106">Malta</option>
-                                                                                                        <option  value="107">Marrocos</option>
-                                                                                                        <option  value="207">Martinica</option>
-                                                                                                        <option  value="109">Maurícias</option>
-                                                                                                        <option  value="108">Mauritânia</option>
-                                                                                                        <option  value="277">Mayotte</option>
-                                                                                                        <option  value="110">México</option>
-                                                                                                        <option  value="115">Moçambique</option>
-                                                                                                        <option  value="112">Moldávia</option>
-                                                                                                        <option  value="113">Mónaco</option>
-                                                                                                        <option  value="114">Mongólia</option>
-                                                                                                        <option  value="216">Montenegro</option>
-                                                                                                        <option  value="235">Montserrat</option>
-                                                                                                        <option  value="116">Myanmar</option>
-                                                                                                        <option  value="117">Namíbia</option>
-                                                                                                        <option  value="118">Nauru</option>
-                                                                                                        <option  value="236">Neocaledónia</option>
-                                                                                                        <option  value="119">Nepal</option>
-                                                                                                        <option  value="121">Nicarágua</option>
-                                                                                                        <option  value="123">Níger</option>
-                                                                                                        <option  value="124">Nigéria</option>
-                                                                                                        <option  value="261">Niue</option>
-                                                                                                        <option  value="125">Noruega</option>
-                                                                                                        <option  value="120">Nova Zelândia</option>
-                                                                                                        <option  value="126">Omã</option>
-                                                                                                        <option  value="191">País de Gales</option>
-                                                                                                        <option  value="129">Palau</option>
-                                                                                                        <option  value="240">Palestina</option>
-                                                                                                        <option  value="130">Panamá</option>
-                                                                                                        <option  value="131">Papua Nova Guiné</option>
-                                                                                                        <option  value="128">Paquistão</option>
-                                                                                                        <option  value="132">Paraguai</option>
-                                                                                                        <option  value="133">Perú</option>
-                                                                                                        <option  value="135">Polónia</option>
-                                                                                                        <option  value="228">Porto Rico</option>
-                                                                                                        <option  value="136">Portugal</option>
-                                                                                                        <option  value="137">Qatar</option>
-                                                                                                        <option  value="82">Quénia</option>
-                                                                                                        <option  value="90">Quirguistão</option>
-                                                                                                        <option  value="193">RD do Congo</option>
-                                                                                                        <option  value="222">RDA</option>
-                                                                                                        <option  value="264">Reino Unido</option>
-                                                                                                        <option  value="138">República Central Africana</option>
-                                                                                                        <option  value="172">República Checa</option>
-                                                                                                        <option  value="43">República Dominicana</option>
-                                                                                                        <option  value="259">República Popular do Congo</option>
-                                                                                                        <option  value="249">Reunião</option>
-                                                                                                        <option  value="140">Roménia</option>
-                                                                                                        <option  value="139">Ruanda</option>
-                                                                                                        <option  value="141">Rússia</option>
-                                                                                                        <option  value="263">Saarland</option>
-                                                                                                        <option  value="267">Saint-Martin</option>
-                                                                                                        <option  value="143">Samoa</option>
-                                                                                                        <option  value="239">Samoa Americana</option>
-                                                                                                        <option  value="144">San Marino</option>
-                                                                                                        <option  value="230">Santa Lúcia</option>
-                                                                                                        <option  value="225">São Cristovão e Nevis</option>
-                                                                                                        <option  value="145">São Tomé and Príncipe</option>
-                                                                                                        <option  value="224">São Vicente e Granadinas</option>
-                                                                                                        <option  value="149">Senegal</option>
-                                                                                                        <option  value="152">Serra Leoa</option>
-                                                                                                        <option  value="215">Sérvia</option>
-                                                                                                        <option  value="150">Sérvia e Montenegro</option>
-                                                                                                        <option  value="151">Seychelles</option>
-                                                                                                        <option  value="153">Singapura</option>
-                                                                                                        <option  value="265">Sint Maarten</option>
-                                                                                                        <option  value="163">Síria</option>
-                                                                                                        <option  value="156">Somália</option>
-                                                                                                        <option  value="158">Sri Lanka</option>
-                                                                                                        <option  value="273">Suazilândia</option>
-                                                                                                        <option  value="160">Sudão</option>
-                                                                                                        <option  value="262">Sudão do Sul</option>
-                                                                                                        <option  value="147">Suécia</option>
-                                                                                                        <option  value="148">Suiça</option>
-                                                                                                        <option  value="161">Suriname</option>
-                                                                                                        <option  value="237">Tahiti</option>
-                                                                                                        <option  value="167">Tailândia</option>
-                                                                                                        <option  value="164">Taipé Chinesa</option>
-                                                                                                        <option  value="165">Tajiquistão</option>
-                                                                                                        <option  value="166">Tanzânia</option>
-                                                                                                        <option  value="245">Tibete</option>
-                                                                                                        <option  value="242">Timor-Leste</option>
-                                                                                                        <option  value="168">Togo</option>
-                                                                                                        <option  value="169">Tonga</option>
-                                                                                                        <option  value="170">Trinidad e Tobago</option>
-                                                                                                        <option  value="173">Tunísia</option>
-                                                                                                        <option  value="226">Turcos e Caicosinseln</option>
-                                                                                                        <option  value="175">Turquemenistão</option>
-                                                                                                        <option  value="174">Turquia</option>
-                                                                                                        <option  value="247">Tuvalu</option>
-                                                                                                        <option  value="177">Ucrânia</option>
-                                                                                                        <option  value="176">Uganda</option>
-                                                                                                        <option  value="220">URSS</option>
-                                                                                                        <option  value="221">URSS</option>
-                                                                                                        <option  value="179">Uruguai</option>
-                                                                                                        <option  value="180">Uzbequistão</option>
-                                                                                                        <option  value="181">Vanuatu</option>
-                                                                                                        <option  value="256">Vaticano</option>
-                                                                                                        <option  value="182">Venezuela</option>
-                                                                                                        <option  value="185">Vietname</option>
-                                                                                                        <option  value="275">Western Sahara</option>
-                                                                                                        <option  value="254">Zaire</option>
-                                                                                                        <option  value="142">Zâmbia</option>
-                                                                                                        <option  value="253">Zanzibar</option>
-                                                                                                        <option  value="187">Zimbabué</option>
-                                                                                                </select>
-                                        </div>
-                                    </td>
-                                </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="large-12 columns">
-                            <input type="submit" class="right small button" value="Mostrar">
-                        </div>
-                    </div>
-                    </form>                </div>
-            </div>
-            
-<div class="tm-tabs">
-    <a class="tm-tab" href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0"><div class=""><span>Compacto</span></div></a><a class="tm-tab tm-tab__active--parent" href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1"><div class=" tm-tab__active"><span>Tabela completa</span></div></a><a class="tm-tab" href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/galerie/1"><div class=""><span>Galeria</span></div></a></div>
-            <div class="responsive-table">
-                                <div id="yw1" class="grid-view">
+                Jogadores sem contrato do Campeonato Brasileiro Série A            </h1>
+            <p class="info-content">
+                A página dos jogadores sem contrato apresenta uma lista completa dos jogadores que ainda estavam ativos na última temporada do Campeonato Brasileiro Série A e que, de momento, não têm clube.            </p>
+            <div id="yw1" class="grid-view">
 <div class="summary"></div>
 <table class="items">
 <thead>
 <tr>
-<th class="zentriert" id="yw1_c0">#</th><th id="yw1_c1">Jogadores</th><th class="zentriert" id="yw1_c2">Nac.</th><th class="zentriert" id="yw1_c3"><a class="sort-link" href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/sort/age">Idade</a></th><th class="zentriert" id="yw1_c4">Clube</th><th class="rechts" id="yw1_c5"><a class="sort-link desc" href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/sort/marktwert">Melhor marca da carreira</a></th><th class="zentriert" id="yw1_c6"><a class="sort-link desc" href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/sort/marktwert">Última alteração</a></th><th class="rechts" id="yw1_c7"><a class="sort-link desc" href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/sort/marktwert">Valor de mercado
-</a></th></tr>
+<th colspan="2" class="zentriert" id="yw1_c0">Jogador/posição</th><th class="hide" id="yw1_c1">spieler_id</th><th class="zentriert" id="yw1_c2">Antes</th><th class="zentriert" id="yw1_c3">País</th><th class="zentriert" id="yw1_c4"><a class="sort-link" href="/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1/sort/einsaetze.desc">Jogos</a></th><th class="zentriert" id="yw1_c5"><a class="sort-link" href="/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1/sort/tore.desc"><div class="icons_sprite icon-tor-table-header header-title" title="Gols"></div></a></th><th class="zentriert" colspan="4" id="yw1_c6">Último jogo</th><th class="hide" id="yw1_c7">wappen</th><th class="hide" id="yw1_c8">letztes_spiel</th><th class="hide" id="yw1_c9">wappen</th><th class="zentriert" id="yw1_c10"><a class="sort-link" href="/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1/sort/anzahl_geruechte.desc">Rumores    </a></th><th class="zentriert" id="yw1_c11"><a class="sort-link" href="/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1/sort/marktwert.desc">Valor de mercado</a></th></tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td class="zentriert">1</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1056993-1714670980.jpg?lm=1" title="Estêvão" alt="Estêvão" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Estêvão" href="/estevao/profil/spieler/1056993">Estêvão</a>                            </td>
-        </tr>
-        <tr>
-            <td>Ponta Direita</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">17</td><td class="zentriert"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="" /></a></td><td class="rechts"><span class="cp" title="17/06/2024">30,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/estevao/marktwertverlauf/spieler/1056993">30,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/31127-1581408537.jpg?lm=1" title="Fellipe Bastos" alt="Fellipe Bastos" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Fellipe Bastos" href="/fellipe-bastos/profil/spieler/31127">Fellipe Bastos</a><br>Meio-Campo </td><td class="zentriert"><a title="Amazonas FC" href="/amazonas-fc/startseite/verein/87727"><img src="https://tmssl.akamaized.net/images/wappen/tiny/87727.png?lm=1612517939" title="Amazonas FC" alt="Amazonas FC" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">1</td><td class="zentriert">0</td><td class="zentriert">28/05/2023</td><td class="zentriert no-border-rechts"><a title="São Paulo FC" href="/fc-sao-paulo/startseite/verein/585"><img src="https://tmssl.akamaized.net/images/wappen/tiny/585.png?lm=1409133922" title="São Paulo FC" alt="São Paulo FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061445" href="/spielbericht/index/spielbericht/4061445">2:1</a></td><td class="zentriert no-border-links"><a title="Goiás EC" href="/goias-ec/startseite/verein/3197"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3197.png?lm=1668099048" title="Goiás EC" alt="Goiás EC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">150 mil €</td></tr>
 <tr class="even">
-<td class="zentriert">2</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/576028-1709363616.jpg?lm=1" title="Thiago Almada" alt="Thiago Almada" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Thiago Almada" href="/thiago-almada/profil/spieler/576028">Thiago Almada</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Ofensivo</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /></td><td class="zentriert">23</td><td class="zentriert"><a title="Botafogo FR" href="/botafogo-rio-de-janeiro/startseite/verein/537/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/537.png?lm=1651494898" title="Botafogo FR" alt="Botafogo FR" class="" /></a></td><td class="rechts"><span class="cp" title="22/08/2023">27,00 mi. €</span></td><td class="zentriert">13/06/2024</td><td class="rechts hauptlink"><a href="/thiago-almada/marktwertverlauf/spieler/576028">27,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/37579-1647201883.jpg?lm=1" title="Alexandre Pato" alt="Alexandre Pato" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Alexandre Pato" href="/alexandre-pato/profil/spieler/37579">Alexandre Pato</a><br>Atacante </td><td class="zentriert"><a title="São Paulo FC" href="/fc-sao-paulo/startseite/verein/585"><img src="https://tmssl.akamaized.net/images/wappen/tiny/585.png?lm=1409133922" title="São Paulo FC" alt="São Paulo FC" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">9</td><td class="zentriert">2</td><td class="zentriert">21/09/2023</td><td class="zentriert no-border-rechts"><a title="São Paulo FC" href="/fc-sao-paulo/startseite/verein/585"><img src="https://tmssl.akamaized.net/images/wappen/tiny/585.png?lm=1409133922" title="São Paulo FC" alt="São Paulo FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061255" href="/spielbericht/index/spielbericht/4061255">1:2</a></td><td class="zentriert no-border-links"><a title="Fortaleza EC" href="/fortaleza-esporte-clube/startseite/verein/10870"><img src="https://tmssl.akamaized.net/images/wappen/tiny/10870.png?lm=1631541450" title="Fortaleza EC" alt="Fortaleza EC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">400 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">3</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/800176-1699348390.jpg?lm=1" title="André" alt="André" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="André" href="/andre/profil/spieler/800176">André</a>                            </td>
-        </tr>
-        <tr>
-            <td>Volante</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">23</td><td class="zentriert"><a title="Fluminense FC" href="/fluminense-rio-de-janeiro/startseite/verein/2462/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/2462.png?lm=1648225934" title="Fluminense FC" alt="Fluminense FC" class="" /></a></td><td class="rechts"><span class="cp" title="11/12/2023">25,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/andre/marktwertverlauf/spieler/800176">25,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/48974-1665561133.png?lm=1" title="Luiz Adriano" alt="Luiz Adriano" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Luiz Adriano" href="/luiz-adriano/profil/spieler/48974">Luiz Adriano</a><br>Atacante </td><td class="zentriert"><a title="EC Vitória" href="/esporte-clube-vitoria/startseite/verein/2125"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2125.png?lm=1412879373" title="EC Vitória" alt="EC Vitória" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">29</td><td class="zentriert">3</td><td class="zentriert">23/06/2024</td><td class="zentriert no-border-rechts"><a title="RB Bragantino" href="/red-bull-bragantino/startseite/verein/8793"><img src="https://tmssl.akamaized.net/images/wappen/tiny/8793.png?lm=1577915313" title="RB Bragantino" alt="RB Bragantino" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4316303" href="/spielbericht/index/spielbericht/4316303">2:1</a></td><td class="zentriert no-border-links"><a title="EC Vitória" href="/esporte-clube-vitoria/startseite/verein/2125"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2125.png?lm=1412879373" title="EC Vitória" alt="EC Vitória" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">300 mil €</td></tr>
 <tr class="even">
-<td class="zentriert">4</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/432895-1668696996.jpg?lm=1" title="Pedro" alt="Pedro" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Pedro" href="/pedro/profil/spieler/432895">Pedro</a>                            </td>
-        </tr>
-        <tr>
-            <td>Centroavante</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">27</td><td class="zentriert"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="" /></a></td><td class="rechts"><span class="cp" title="17/06/2024">23,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/pedro/marktwertverlauf/spieler/432895">23,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/52513-1662721869.jpg?lm=1" title="Henrique" alt="Henrique" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Henrique" href="/henrique/profil/spieler/52513">Henrique</a><br>Defensor </td><td class="zentriert"><a title="Coritiba FC" href="/coritiba-fc/startseite/verein/776"><img src="https://tmssl.akamaized.net/images/wappen/tiny/776.png?lm=1412879464" title="Coritiba FC" alt="Coritiba FC" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">24</td><td class="zentriert">0</td><td class="zentriert">11/11/2023</td><td class="zentriert no-border-rechts"><a title="Coritiba FC" href="/coritiba-fc/startseite/verein/776"><img src="https://tmssl.akamaized.net/images/wappen/tiny/776.png?lm=1412879464" title="Coritiba FC" alt="Coritiba FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061310" href="/spielbericht/index/spielbericht/4061310">1:0</a></td><td class="zentriert no-border-links"><a title="Cruzeiro EC" href="/ec-cruzeiro-belo-horizonte/startseite/verein/609"><img src="https://tmssl.akamaized.net/images/wappen/tiny/609.png?lm=1704193039" title="Cruzeiro EC" alt="Cruzeiro EC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">150 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">5</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/397458-1719565799.jpg?lm=1" title="Nicolás de la Cruz" alt="Nicolás de la Cruz" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Nicolás de la Cruz" href="/nicolas-de-la-cruz/profil/spieler/397458">Nicolás de la Cruz</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Central</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguai" alt="Uruguai" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /></td><td class="zentriert">27</td><td class="zentriert"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="" /></a></td><td class="rechts"><span class="cp" title="08/02/2021">18,00 mi. €</span></td><td class="zentriert">19/07/2024</td><td class="rechts hauptlink"><a href="/nicolas-de-la-cruz/marktwertverlauf/spieler/397458">18,00 mi. €</a>&nbsp;<span title="Valor de mercado anterior: 16,00 mi. €" class="icons_sprite green-arrow-ten">&nbsp;</span></td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/57229-1563350348.jpg?lm=1" title="Paulinho" alt="Paulinho" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Paulinho" href="/paulinho/profil/spieler/57229">Paulinho</a><br>Meio-Campo </td><td class="zentriert"><a title="SC Corinthians" href="/corinthians-sao-paulo/startseite/verein/199"><img src="https://tmssl.akamaized.net/images/wappen/tiny/199.png?lm=1649430398" title="SC Corinthians" alt="SC Corinthians" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">4</td><td class="zentriert">0</td><td class="zentriert">11/05/2024</td><td class="zentriert no-border-rechts"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614"><img src="https://tmssl.akamaized.net/images/wappen/tiny/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4316310" href="/spielbericht/index/spielbericht/4316310">2:0</a></td><td class="zentriert no-border-links"><a title="SC Corinthians" href="/corinthians-sao-paulo/startseite/verein/199"><img src="https://tmssl.akamaized.net/images/wappen/tiny/199.png?lm=1649430398" title="SC Corinthians" alt="SC Corinthians" class="tiny_wappen" /></a></td><td class="zentriert">1</td><td class="rechts">300 mil €</td></tr>
 <tr class="even">
-<td class="zentriert">6</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/428791-1658913690.jpg?lm=1" title="Paulinho" alt="Paulinho" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Paulinho" href="/paulinho/profil/spieler/428791">Paulinho</a>                            </td>
-        </tr>
-        <tr>
-            <td>Ponta Esquerda</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">24</td><td class="zentriert"><a title="Atlético Mineiro" href="/clube-atletico-mineiro/startseite/verein/330/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/330.png?lm=1411033853" title="Atlético Mineiro" alt="Atlético Mineiro" class="" /></a></td><td class="rechts"><span class="cp" title="23/05/2018">25,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/paulinho/marktwertverlauf/spieler/428791">17,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/72451-1598861744.jpg?lm=1" title="Nino Paraíba" alt="Nino Paraíba" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Nino Paraíba" href="/nino-paraiba/profil/spieler/72451">Nino Paraíba</a><br>Defensor </td><td class="zentriert"><a title="Paysandu SC" href="/paysandu-sport-club-pa-/startseite/verein/6347"><img src="https://tmssl.akamaized.net/images/wappen/tiny/6347.png?lm=1596631029" title="Paysandu SC" alt="Paysandu SC" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">4</td><td class="zentriert">0</td><td class="zentriert">07/05/2023</td><td class="zentriert no-border-rechts"><a title="América Mineiro" href="/america-futebol-clube-mg-/startseite/verein/2863"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2863.png?lm=1646322335" title="América Mineiro" alt="América Mineiro" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061502" href="/spielbericht/index/spielbericht/4061502">1:2</a></td><td class="zentriert no-border-links"><a title="Cuiabá EC" href="/cuiaba-ec-mt-/startseite/verein/28022"><img src="https://tmssl.akamaized.net/images/wappen/tiny/28022.png?lm=1451243370" title="Cuiabá EC" alt="Cuiabá EC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">-</td></tr>
 <tr class="odd">
-<td class="zentriert">7</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/432953-1706144797.jpg?lm=1" title="Raphael Veiga" alt="Raphael Veiga" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Raphael Veiga" href="/raphael-veiga/profil/spieler/432953">Raphael Veiga</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Ofensivo</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">29</td><td class="zentriert"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="" /></a></td><td class="rechts"><span class="cp" title="11/12/2023">18,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/raphael-veiga/marktwertverlauf/spieler/432953">16,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/112062-1669641188.png?lm=1" title="Júnior Caiçara" alt="Júnior Caiçara" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Júnior Caiçara" href="/junior-caicara/profil/spieler/112062">Júnior Caiçara</a><br>Defensor </td><td class="zentriert"><a title="EC Santo André" href="/esporte-clube-santo-andre-sp-/startseite/verein/7478"><img src="https://tmssl.akamaized.net/images/wappen/tiny/7478.png?lm=1450820536" title="EC Santo André" alt="EC Santo André" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/28.png?lm=1520611569" title="Bulgária" alt="Bulgária" class="flaggenrahmen" /></td><td class="zentriert">5</td><td class="zentriert">0</td><td class="zentriert">07/11/2023</td><td class="zentriert no-border-rechts"><a title="Santos FC" href="/fc-santos/startseite/verein/221"><img src="https://tmssl.akamaized.net/images/wappen/tiny/221.png?lm=1412879099" title="Santos FC" alt="Santos FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061226" href="/spielbericht/index/spielbericht/4061226">0:0</a></td><td class="zentriert no-border-links"><a title="Cuiabá EC" href="/cuiaba-ec-mt-/startseite/verein/28022"><img src="https://tmssl.akamaized.net/images/wappen/tiny/28022.png?lm=1451243370" title="Cuiabá EC" alt="Cuiabá EC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">-</td></tr>
 <tr class="even">
-<td class="zentriert">8</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/248410-1668501457.jpg?lm=1" title="Giorgian de Arrascaeta" alt="Giorgian de Arrascaeta" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Giorgian de Arrascaeta" href="/giorgian-de-arrascaeta/profil/spieler/248410">Giorgian de Arrascaeta</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Ofensivo</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguai" alt="Uruguai" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /></td><td class="zentriert">30</td><td class="zentriert"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="" /></a></td><td class="rechts"><span class="cp" title="27/11/2019">19,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/giorgian-de-arrascaeta/marktwertverlauf/spieler/248410">15,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/114514-1571741981.jpg?lm=1" title="Marcelo Cirino" alt="Marcelo Cirino" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Marcelo Cirino" href="/marcelo-cirino/profil/spieler/114514">Marcelo Cirino</a><br>Atacante </td><td class="zentriert"><a title="Operário FEC" href="/operario-ferroviario-ec-pr-/startseite/verein/27214"><img src="https://tmssl.akamaized.net/images/wappen/tiny/27214.png?lm=1647255730" title="Operário FEC" alt="Operário FEC" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">4</td><td class="zentriert">0</td><td class="zentriert">05/08/2023</td><td class="zentriert no-border-rechts"><a title="Santos FC" href="/fc-santos/startseite/verein/221"><img src="https://tmssl.akamaized.net/images/wappen/tiny/221.png?lm=1412879099" title="Santos FC" alt="Santos FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061276" href="/spielbericht/index/spielbericht/4061276">1:1</a></td><td class="zentriert no-border-links"><a title="Athletico Paranaense" href="/club-athletico-paranaense/startseite/verein/679"><img src="https://tmssl.akamaized.net/images/wappen/tiny/679.png?lm=1548711363" title="Athletico Paranaense" alt="Athletico Paranaense" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">500 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">9</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/892089-1709321103.jpg?lm=1" title="Pablo Maia" alt="Pablo Maia" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Pablo Maia" href="/pablo-maia/profil/spieler/892089">Pablo Maia</a>                            </td>
-        </tr>
-        <tr>
-            <td>Volante</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">22</td><td class="zentriert"><a title="São Paulo FC" href="/fc-sao-paulo/startseite/verein/585/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/585.png?lm=1409133922" title="São Paulo FC" alt="São Paulo FC" class="" /></a></td><td class="rechts"><span class="cp" title="28/03/2024">14,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/pablo-maia/marktwertverlauf/spieler/892089">14,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/134936-1676024286.jpg?lm=1" title="Jesé" alt="Jesé" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Jesé" href="/jese/profil/spieler/134936">Jesé</a><br>Atacante </td><td class="zentriert"><a title="UC Sampdoria" href="/sampdoria-genua/startseite/verein/1038"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1038.png?lm=1520934353" title="UC Sampdoria" alt="UC Sampdoria" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/157.png?lm=1520611569" title="Espanha" alt="Espanha" class="flaggenrahmen" /></td><td class="zentriert">6</td><td class="zentriert">1</td><td class="zentriert">26/11/2023</td><td class="zentriert no-border-rechts"><a title="Fluminense FC" href="/fluminense-rio-de-janeiro/startseite/verein/2462"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2462.png?lm=1648225934" title="Fluminense FC" alt="Fluminense FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061353" href="/spielbericht/index/spielbericht/4061353">2:1</a></td><td class="zentriert no-border-links"><a title="Coritiba FC" href="/coritiba-fc/startseite/verein/776"><img src="https://tmssl.akamaized.net/images/wappen/tiny/776.png?lm=1412879464" title="Coritiba FC" alt="Coritiba FC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">700 mil €</td></tr>
 <tr class="even">
-<td class="zentriert">10</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/341705-1640777566.jpg?lm=1" title="Gerson" alt="Gerson" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Gerson" href="/gerson/profil/spieler/341705">Gerson</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Central</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">27</td><td class="zentriert"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="" /></a></td><td class="rechts"><span class="cp" title="30/05/2022">22,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/gerson/marktwertverlauf/spieler/341705">14,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/140032-1676547002.jpg?lm=1" title="Andreas Samaris" alt="Andreas Samaris" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Andreas Samaris" href="/andreas-samaris/profil/spieler/140032">Andreas Samaris</a><br>Meio-Campo </td><td class="zentriert"><a title="Coritiba FC" href="/coritiba-fc/startseite/verein/776"><img src="https://tmssl.akamaized.net/images/wappen/tiny/776.png?lm=1412879464" title="Coritiba FC" alt="Coritiba FC" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/56.png?lm=1520611569" title="Grécia" alt="Grécia" class="flaggenrahmen" /></td><td class="zentriert">4</td><td class="zentriert">0</td><td class="zentriert">22/10/2023</td><td class="zentriert no-border-rechts"><a title="Coritiba FC" href="/coritiba-fc/startseite/verein/776"><img src="https://tmssl.akamaized.net/images/wappen/tiny/776.png?lm=1412879464" title="Coritiba FC" alt="Coritiba FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061330" href="/spielbericht/index/spielbericht/4061330">0:2</a></td><td class="zentriert no-border-links"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">100 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">11</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/588989-1719245400.jpg?lm=1" title="Jhon Arias" alt="Jhon Arias" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Jhon Arias" href="/jhon-arias/profil/spieler/588989">Jhon Arias</a>                            </td>
-        </tr>
-        <tr>
-            <td>Ponta Direita</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/83.png?lm=1520611569" title="Colômbia" alt="Colômbia" class="flaggenrahmen" /></td><td class="zentriert">26</td><td class="zentriert"><a title="Fluminense FC" href="/fluminense-rio-de-janeiro/startseite/verein/2462/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/2462.png?lm=1648225934" title="Fluminense FC" alt="Fluminense FC" class="" /></a></td><td class="rechts"><span class="cp" title="17/06/2024">14,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/jhon-arias/marktwertverlauf/spieler/588989">14,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/140748-1448968398.jpg?lm=1" title="Danilo Avelar" alt="Danilo Avelar" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Danilo Avelar" href="/danilo-avelar/profil/spieler/140748">Danilo Avelar</a><br>Defensor </td><td class="zentriert"><a title="América Mineiro" href="/america-futebol-clube-mg-/startseite/verein/2863"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2863.png?lm=1646322335" title="América Mineiro" alt="América Mineiro" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /></td><td class="zentriert">26</td><td class="zentriert">3</td><td class="zentriert">06/12/2023</td><td class="zentriert no-border-rechts"><a title="Goiás EC" href="/goias-ec/startseite/verein/3197"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3197.png?lm=1668099048" title="Goiás EC" alt="Goiás EC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061487" href="/spielbericht/index/spielbericht/4061487">1:0</a></td><td class="zentriert no-border-links"><a title="América Mineiro" href="/america-futebol-clube-mg-/startseite/verein/2863"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2863.png?lm=1646322335" title="América Mineiro" alt="América Mineiro" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">250 mil €</td></tr>
 <tr class="even">
-<td class="zentriert">12</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/496268-1706144655.jpg?lm=1" title="Joaquín Piquerez" alt="Joaquín Piquerez" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Joaquín Piquerez" href="/joaquin-piquerez/profil/spieler/496268">Joaquín Piquerez</a>                            </td>
-        </tr>
-        <tr>
-            <td>Lateral Esq.</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguai" alt="Uruguai" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /></td><td class="zentriert">25</td><td class="zentriert"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="" /></a></td><td class="rechts"><span class="cp" title="11/12/2023">13,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/joaquin-piquerez/marktwertverlauf/spieler/496268">13,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/148751-1630526671.png?lm=1" title="Bruno Peres" alt="Bruno Peres" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Bruno Peres" href="/bruno-peres/profil/spieler/148751">Bruno Peres</a><br>Defensor </td><td class="zentriert"><a title="Athletico Paranaense" href="/club-athletico-paranaense/startseite/verein/679"><img src="https://tmssl.akamaized.net/images/wappen/tiny/679.png?lm=1548711363" title="Athletico Paranaense" alt="Athletico Paranaense" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">5</td><td class="zentriert">0</td><td class="zentriert">07/12/2023</td><td class="zentriert no-border-rechts"><a title="Cuiabá EC" href="/cuiaba-ec-mt-/startseite/verein/28022"><img src="https://tmssl.akamaized.net/images/wappen/tiny/28022.png?lm=1451243370" title="Cuiabá EC" alt="Cuiabá EC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061492" href="/spielbericht/index/spielbericht/4061492">3:0</a></td><td class="zentriert no-border-links"><a title="Athletico Paranaense" href="/club-athletico-paranaense/startseite/verein/679"><img src="https://tmssl.akamaized.net/images/wappen/tiny/679.png?lm=1548711363" title="Athletico Paranaense" alt="Athletico Paranaense" class="tiny_wappen" /></a></td><td class="zentriert">1</td><td class="rechts">500 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">13</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1009030-1682391070.jpg?lm=1" title="Lorran" alt="Lorran" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Lorran" href="/lorran/profil/spieler/1009030">Lorran</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Ofensivo</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">18</td><td class="zentriert"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="" /></a></td><td class="rechts"><span class="cp" title="17/06/2024">12,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/lorran/marktwertverlauf/spieler/1009030">12,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/174915-1705958702.jpg?lm=1" title="Islam Slimani" alt="Islam Slimani" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Islam Slimani" href="/islam-slimani/profil/spieler/174915">Islam Slimani</a><br>Atacante </td><td class="zentriert"><a title="KV Mechelen" href="/kv-mechelen/startseite/verein/354"><img src="https://tmssl.akamaized.net/images/wappen/tiny/354.png?lm=1693258903" title="KV Mechelen" alt="KV Mechelen" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/4.png?lm=1520611569" title="Argélia" alt="Argélia" class="flaggenrahmen" /></td><td class="zentriert">11</td><td class="zentriert">3</td><td class="zentriert">11/11/2023</td><td class="zentriert no-border-rechts"><a title="Coritiba FC" href="/coritiba-fc/startseite/verein/776"><img src="https://tmssl.akamaized.net/images/wappen/tiny/776.png?lm=1412879464" title="Coritiba FC" alt="Coritiba FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061310" href="/spielbericht/index/spielbericht/4061310">1:0</a></td><td class="zentriert no-border-links"><a title="Cruzeiro EC" href="/ec-cruzeiro-belo-horizonte/startseite/verein/609"><img src="https://tmssl.akamaized.net/images/wappen/tiny/609.png?lm=1704193039" title="Cruzeiro EC" alt="Cruzeiro EC" class="tiny_wappen" /></a></td><td class="zentriert">1</td><td class="rechts">1,20 mi. €</td></tr>
 <tr class="even">
-<td class="zentriert">14</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/800175-1673262492.jpg?lm=1" title="Luiz Henrique" alt="Luiz Henrique" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Luiz Henrique" href="/luiz-henrique/profil/spieler/800175">Luiz Henrique</a>                            </td>
-        </tr>
-        <tr>
-            <td>Ponta Direita</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">23</td><td class="zentriert"><a title="Botafogo FR" href="/botafogo-rio-de-janeiro/startseite/verein/537/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/537.png?lm=1651494898" title="Botafogo FR" alt="Botafogo FR" class="" /></a></td><td class="rechts"><span class="cp" title="07/11/2022">15,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/luiz-henrique/marktwertverlauf/spieler/800175">12,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/197880-1541089312.jpg?lm=1" title="Raphael Guzzo" alt="Raphael Guzzo" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Raphael Guzzo" href="/raphael-guzzo/profil/spieler/197880">Raphael Guzzo</a><br>Meio-Campo </td><td class="zentriert"><a title="GD Chaves" href="/gd-chaves/startseite/verein/3325"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3325.png?lm=1416392512" title="GD Chaves" alt="GD Chaves" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">14</td><td class="zentriert">1</td><td class="zentriert">03/12/2023</td><td class="zentriert no-border-rechts"><a title="Fortaleza EC" href="/fortaleza-esporte-clube/startseite/verein/10870"><img src="https://tmssl.akamaized.net/images/wappen/tiny/10870.png?lm=1631541450" title="Fortaleza EC" alt="Fortaleza EC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061481" href="/spielbericht/index/spielbericht/4061481">1:0</a></td><td class="zentriert no-border-links"><a title="Goiás EC" href="/goias-ec/startseite/verein/3197"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3197.png?lm=1668099048" title="Goiás EC" alt="Goiás EC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">600 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">15</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/346766-1719653784.jpg?lm=1" title="Guilherme Arana" alt="Guilherme Arana" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Guilherme Arana" href="/guilherme-arana/profil/spieler/346766">Guilherme Arana</a>                            </td>
-        </tr>
-        <tr>
-            <td>Lateral Esq.</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">27</td><td class="zentriert"><a title="Atlético Mineiro" href="/clube-atletico-mineiro/startseite/verein/330/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/330.png?lm=1411033853" title="Atlético Mineiro" alt="Atlético Mineiro" class="" /></a></td><td class="rechts"><span class="cp" title="06/04/2022">14,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/guilherme-arana/marktwertverlauf/spieler/346766">12,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/313106-1512665089.jpg?lm=1" title="Luan" alt="Luan" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Luan" href="/luan/profil/spieler/313106">Luan</a><br>Meio-Campo </td><td class="zentriert"><a title="EC Vitória" href="/esporte-clube-vitoria/startseite/verein/2125"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2125.png?lm=1412879373" title="EC Vitória" alt="EC Vitória" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">5</td><td class="zentriert">0</td><td class="zentriert">19/10/2023</td><td class="zentriert no-border-rechts"><a title="Grêmio FBPA" href="/gremio-porto-alegre/startseite/verein/210"><img src="https://tmssl.akamaized.net/images/wappen/tiny/210.png?lm=1412879265" title="Grêmio FBPA" alt="Grêmio FBPA" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061349" href="/spielbericht/index/spielbericht/4061349">1:2</a></td><td class="zentriert no-border-links"><a title="Athletico Paranaense" href="/club-athletico-paranaense/startseite/verein/679"><img src="https://tmssl.akamaized.net/images/wappen/tiny/679.png?lm=1548711363" title="Athletico Paranaense" alt="Athletico Paranaense" class="tiny_wappen" /></a></td><td class="zentriert">1</td><td class="rechts">350 mil €</td></tr>
 <tr class="even">
-<td class="zentriert">16</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/489893-1720056861.jpg?lm=1" title="Yuri Alberto" alt="Yuri Alberto" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Yuri Alberto" href="/yuri-alberto/profil/spieler/489893">Yuri Alberto</a>                            </td>
-        </tr>
-        <tr>
-            <td>Centroavante</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">23</td><td class="zentriert"><a title="SC Corinthians" href="/corinthians-sao-paulo/startseite/verein/199/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/199.png?lm=1649430398" title="SC Corinthians" alt="SC Corinthians" class="" /></a></td><td class="rechts"><span class="cp" title="07/04/2023">18,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/yuri-alberto/marktwertverlauf/spieler/489893">12,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/432160-1709149287.jpg?lm=1" title="Victor Yan" alt="Victor Yan" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Victor Yan" href="/victor-yan/profil/spieler/432160">Victor Yan</a><br>Meio-Campo </td><td class="zentriert"><a title="Metalist Kharkiv" href="/metal-kharkiv/startseite/verein/83678"><img src="https://tmssl.akamaized.net/images/wappen/tiny/83678.png?lm=1624463809" title="Metalist Kharkiv" alt="Metalist Kharkiv" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">0</td><td class="zentriert">0</td><td class="zentriert"></td><td class="zentriert no-border-rechts"></td><td class="zentriert hauptlink no-border-rechts no-border-links">&nbsp;</td><td class="zentriert no-border-links"></td><td class="zentriert">0</td><td class="rechts">25 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">17</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/678439-1662317819.jpg?lm=1" title="Mauricio" alt="Mauricio" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Mauricio" href="/mauricio/profil/spieler/678439">Mauricio</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Ofensivo</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/132.png?lm=1520611569" title="Paraguai" alt="Paraguai" class="flaggenrahmen" /></td><td class="zentriert">23</td><td class="zentriert"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="" /></a></td><td class="rechts"><span class="cp" title="28/03/2024">12,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/mauricio/marktwertverlauf/spieler/678439">12,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/546253-1693415989.png?lm=1" title="Dadá Belmonte" alt="Dadá Belmonte" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Dadá Belmonte" href="/dada-belmonte/profil/spieler/546253">Dadá Belmonte</a><br>Atacante </td><td class="zentriert"><a title="América Mineiro" href="/america-futebol-clube-mg-/startseite/verein/2863"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2863.png?lm=1646322335" title="América Mineiro" alt="América Mineiro" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">0</td><td class="zentriert">0</td><td class="zentriert">09/11/2022</td><td class="zentriert no-border-rechts"><a title="Fluminense FC" href="/fluminense-rio-de-janeiro/startseite/verein/2462"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2462.png?lm=1648225934" title="Fluminense FC" alt="Fluminense FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="3767933" href="/spielbericht/index/spielbericht/3767933">3:0</a></td><td class="zentriert no-border-links"><a title="Goiás EC" href="/goias-ec/startseite/verein/3197"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3197.png?lm=1668099048" title="Goiás EC" alt="Goiás EC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">-</td></tr>
 <tr class="even">
-<td class="zentriert">18</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/735573-1721090544.jpg?lm=1" title="Richard Ríos" alt="Richard Ríos" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Richard Ríos" href="/richard-rios/profil/spieler/735573">Richard Ríos</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Central</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/83.png?lm=1520611569" title="Colômbia" alt="Colômbia" class="flaggenrahmen" /></td><td class="zentriert">24</td><td class="zentriert"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="" /></a></td><td class="rechts"><span class="cp" title="19/07/2024">10,00 mi. €</span></td><td class="zentriert">19/07/2024</td><td class="rechts hauptlink"><a href="/richard-rios/marktwertverlauf/spieler/735573">10,00 mi. €</a>&nbsp;<span title="Valor de mercado anterior: 5,00 mi. €" class="icons_sprite green-arrow-ten">&nbsp;</span></td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/585347-1674432493.jpg?lm=1" title="Philippe Costa" alt="Philippe Costa" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Philippe Costa" href="/philippe-costa/profil/spieler/585347">Philippe Costa</a><br>Atacante </td><td class="zentriert"><a title="Joinville EC" href="/joinville-ec-sc-/startseite/verein/3330"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3330.png?lm=1419949314" title="Joinville EC" alt="Joinville EC" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">4</td><td class="zentriert">0</td><td class="zentriert">04/07/2023</td><td class="zentriert no-border-rechts"><a title="Goiás EC" href="/goias-ec/startseite/verein/3197"><img src="https://tmssl.akamaized.net/images/wappen/tiny/3197.png?lm=1668099048" title="Goiás EC" alt="Goiás EC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061557" href="/spielbericht/index/spielbericht/4061557">1:2</a></td><td class="zentriert no-border-links"><a title="Coritiba FC" href="/coritiba-fc/startseite/verein/776"><img src="https://tmssl.akamaized.net/images/wappen/tiny/776.png?lm=1412879464" title="Coritiba FC" alt="Coritiba FC" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">-</td></tr>
 <tr class="odd">
-<td class="zentriert">19</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1007378-1719453433.jpg?lm=1" title="Wesley" alt="Wesley" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Wesley" href="/wesley/profil/spieler/1007378">Wesley</a>                            </td>
-        </tr>
-        <tr>
-            <td>Ponta Esquerda</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">19</td><td class="zentriert"><a title="SC Corinthians" href="/corinthians-sao-paulo/startseite/verein/199/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/199.png?lm=1649430398" title="SC Corinthians" alt="SC Corinthians" class="" /></a></td><td class="rechts"><span class="cp" title="17/06/2024">10,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/wesley/marktwertverlauf/spieler/1007378">10,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/636314-1597994712.jpg?lm=1" title="Gustavo Silva" alt="Gustavo Silva" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Gustavo Silva" href="/gustavo-silva/profil/spieler/636314">Gustavo Silva</a><br>Atacante </td><td class="zentriert"><a title="SC Corinthians" href="/corinthians-sao-paulo/startseite/verein/199"><img src="https://tmssl.akamaized.net/images/wappen/tiny/199.png?lm=1649430398" title="SC Corinthians" alt="SC Corinthians" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">11</td><td class="zentriert">1</td><td class="zentriert">02/07/2024</td><td class="zentriert no-border-rechts"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023"><img src="https://tmssl.akamaized.net/images/wappen/tiny/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4316212" href="/spielbericht/index/spielbericht/4316212">2:0</a></td><td class="zentriert no-border-links"><a title="SC Corinthians" href="/corinthians-sao-paulo/startseite/verein/199"><img src="https://tmssl.akamaized.net/images/wappen/tiny/199.png?lm=1649430398" title="SC Corinthians" alt="SC Corinthians" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">1,50 mi. €</td></tr>
 <tr class="even">
-<td class="zentriert">20</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/332259-1684807927.jpg?lm=1" title="Franco Cristaldo" alt="Franco Cristaldo" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Franco Cristaldo" href="/franco-cristaldo/profil/spieler/332259">Franco Cristaldo</a>                            </td>
-        </tr>
-        <tr>
-            <td>Meia Ofensivo</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/9.png?lm=1520611569" title="Argentina" alt="Argentina" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/132.png?lm=1520611569" title="Paraguai" alt="Paraguai" class="flaggenrahmen" /></td><td class="zentriert">27</td><td class="zentriert"><a title="Grêmio FBPA" href="/gremio-porto-alegre/startseite/verein/210/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/210.png?lm=1412879265" title="Grêmio FBPA" alt="Grêmio FBPA" class="" /></a></td><td class="rechts"><span class="cp" title="17/06/2024">10,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/franco-cristaldo/marktwertverlauf/spieler/332259">10,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/642689-1643621740.jpg?lm=1" title="Mikael" alt="Mikael" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Mikael" href="/mikael/profil/spieler/642689">Mikael</a><br>Atacante </td><td class="zentriert"><a title="Salernitana Calcio 1919" href="/us-salernitana-1919/startseite/verein/380"><img src="https://tmssl.akamaized.net/images/wappen/tiny/380.png?lm=1601390035" title="Salernitana Calcio 1919" alt="Salernitana Calcio 1919" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">5</td><td class="zentriert">0</td><td class="zentriert">19/08/2023</td><td class="zentriert no-border-rechts"><a title="Fluminense FC" href="/fluminense-rio-de-janeiro/startseite/verein/2462"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2462.png?lm=1648225934" title="Fluminense FC" alt="Fluminense FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4061243" href="/spielbericht/index/spielbericht/4061243">3:1</a></td><td class="zentriert no-border-links"><a title="América Mineiro" href="/america-futebol-clube-mg-/startseite/verein/2863"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2863.png?lm=1646322335" title="América Mineiro" alt="América Mineiro" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">300 mil €</td></tr>
 <tr class="odd">
-<td class="zentriert">21</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/321239-1603795820.jpg?lm=1" title="Everton" alt="Everton" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Everton" href="/everton/profil/spieler/321239">Everton</a>                            </td>
-        </tr>
-        <tr>
-            <td>Ponta Esquerda</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">28</td><td class="zentriert"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="" /></a></td><td class="rechts"><span class="cp" title="15/08/2019">40,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/everton/marktwertverlauf/spieler/321239">10,00 mi. €</a>&nbsp;</td></tr>
-<tr class="even">
-<td class="zentriert">22</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/436385-1719654416.jpg?lm=1" title="Mathías Villasanti" alt="Mathías Villasanti" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Mathías Villasanti" href="/mathias-villasanti/profil/spieler/436385">Mathías Villasanti</a>                            </td>
-        </tr>
-        <tr>
-            <td>Volante</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/132.png?lm=1520611569" title="Paraguai" alt="Paraguai" class="flaggenrahmen" /></td><td class="zentriert">27</td><td class="zentriert"><a title="Grêmio FBPA" href="/gremio-porto-alegre/startseite/verein/210/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/210.png?lm=1412879265" title="Grêmio FBPA" alt="Grêmio FBPA" class="" /></a></td><td class="rechts"><span class="cp" title="11/12/2023">10,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/mathias-villasanti/marktwertverlauf/spieler/436385">10,00 mi. €</a>&nbsp;</td></tr>
-<tr class="odd">
-<td class="zentriert">23</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/458710-1642081312.png?lm=1" title="Murilo" alt="Murilo" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Murilo" href="/murilo/profil/spieler/458710">Murilo</a>                            </td>
-        </tr>
-        <tr>
-            <td>Zagueiro</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">27</td><td class="zentriert"><a title="SE Palmeiras" href="/se-palmeiras-sao-paulo/startseite/verein/1023/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/1023.png?lm=1411204983" title="SE Palmeiras" alt="SE Palmeiras" class="" /></a></td><td class="rechts"><span class="cp" title="28/03/2024">10,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/murilo/marktwertverlauf/spieler/458710">10,00 mi. €</a>&nbsp;</td></tr>
-<tr class="even">
-<td class="zentriert">24</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/439072-1663581362.jpg?lm=1" title="Matías Viña" alt="Matías Viña" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Matías Viña" href="/matias-vina/profil/spieler/439072">Matías Viña</a>                            </td>
-        </tr>
-        <tr>
-            <td>Lateral Esq.</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569" title="Uruguai" alt="Uruguai" class="flaggenrahmen" /><br /><img src="https://tmssl.akamaized.net/images/flagge/verysmall/75.png?lm=1520611569" title="Itália" alt="Itália" class="flaggenrahmen" /></td><td class="zentriert">26</td><td class="zentriert"><a title="CR Flamengo" href="/flamengo-rio-de-janeiro/startseite/verein/614/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/614.png?lm=1551023331" title="CR Flamengo" alt="CR Flamengo" class="" /></a></td><td class="rechts"><span class="cp" title="14/10/2021">12,00 mi. €</span></td><td class="zentriert">19/07/2024</td><td class="rechts hauptlink"><a href="/matias-vina/marktwertverlauf/spieler/439072">10,00 mi. €</a>&nbsp;<span title="Valor de mercado anterior: 8,00 mi. €" class="icons_sprite green-arrow-ten">&nbsp;</span></td></tr>
-<tr class="odd">
-<td class="zentriert">25</td><td>    <table class="inline-table">
-        <tr>
-            <td rowspan="2">
-                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1086375-1717523011.jpg?lm=1" title="Gustavo Nunes" alt="Gustavo Nunes" class="bilderrahmen-fixed lazy lazy" />            </td>
-            <td class="hauptlink">
-                <a title="Gustavo Nunes" href="/gustavo-nunes/profil/spieler/1086375">Gustavo Nunes</a>                            </td>
-        </tr>
-        <tr>
-            <td>Ponta Esquerda</td>
-        </tr>
-    </table>
-</td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">18</td><td class="zentriert"><a title="Grêmio FBPA" href="/gremio-porto-alegre/startseite/verein/210/saison_id/2023"><img src="https://tmssl.akamaized.net/images/wappen/verysmall/210.png?lm=1412879265" title="Grêmio FBPA" alt="Grêmio FBPA" class="" /></a></td><td class="rechts"><span class="cp" title="17/06/2024">10,00 mi. €</span></td><td class="zentriert">17/06/2024</td><td class="rechts hauptlink"><a href="/gustavo-nunes/marktwertverlauf/spieler/1086375">10,00 mi. €</a>&nbsp;</td></tr>
+<td class="rechts no-border-rechts"><a href="#"><img src="https://img.a.transfermarkt.technology/portrait/small/686333-1624464788.jpg?lm=1" title="Vitor Mendes" alt="Vitor Mendes" class="bilderrahmen portrait-small" /></a></td><td class="links no-border-links"><a title="Vitor Mendes" href="/vitor-mendes/profil/spieler/686333">Vitor Mendes</a><br>Defensor </td><td class="zentriert"><a title="Atlético Mineiro" href="/clube-atletico-mineiro/startseite/verein/330"><img src="https://tmssl.akamaized.net/images/wappen/tiny/330.png?lm=1411033853" title="Atlético Mineiro" alt="Atlético Mineiro" class="tiny_wappen" /></a></td><td class="zentriert"><img src="https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569" title="Brasil" alt="Brasil" class="flaggenrahmen" /></td><td class="zentriert">2</td><td class="zentriert">0</td><td class="zentriert">22/04/2023</td><td class="zentriert no-border-rechts"><a title="Fluminense FC" href="/fluminense-rio-de-janeiro/startseite/verein/2462"><img src="https://tmssl.akamaized.net/images/wappen/tiny/2462.png?lm=1648225934" title="Fluminense FC" alt="Fluminense FC" class="tiny_wappen" /></a></td><td class="zentriert hauptlink no-border-rechts no-border-links"><a title="Ficha de jogo" class="ergebnis-link" id="4059103" href="/spielbericht/index/spielbericht/4059103">2:0</a></td><td class="zentriert no-border-links"><a title="Athletico Paranaense" href="/club-athletico-paranaense/startseite/verein/679"><img src="https://tmssl.akamaized.net/images/wappen/tiny/679.png?lm=1548711363" title="Athletico Paranaense" alt="Athletico Paranaense" class="tiny_wappen" /></a></td><td class="zentriert">0</td><td class="rechts">300 mil €</td></tr>
 </tbody>
 </table>
-<div class="pager"><ul class="tm-pagination">
-
-<li class="tm-pagination__list-item tm-pagination__list-item--active"><a href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1" title="Página 1" class="tm-pagination__link">1</a></li>
-<li class="tm-pagination__list-item"><a href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/page/2" title="Página 2" class="tm-pagination__link">2</a></li>
-<li class="tm-pagination__list-item"><a href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/page/3" title="Página 3" class="tm-pagination__link">3</a></li>
-<li class="tm-pagination__list-item"><a href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/page/4" title="Página 4" class="tm-pagination__link">4</a></li>
-<li class="tm-pagination__list-item tm-pagination__list-item--icon-next-page"><a href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/page/2" title="Para a página seguinte" class="tm-pagination__link">&nbsp;&nbsp;</a></li>
-<li class="tm-pagination__list-item tm-pagination__list-item--icon-last-page"><a href="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1/page/4" title="Para a última página (página 4)" class="tm-pagination__link">&nbsp;&nbsp;</a></li></ul></div><div class="keys" style="display:none" title="/campeonato-brasileiro-serie-a/marktwerte/wettbewerb/BRA1/pos//detailpos/0/altersklasse/alle/land_id/0/plus/1"><span>30000000</span><span>27000000</span><span>25000000</span><span>23000000</span><span>18000000</span><span>17000000</span><span>16000000</span><span>15000000</span><span>14000000</span><span>14000000</span><span>14000000</span><span>13000000</span><span>12000000</span><span>12000000</span><span>12000000</span><span>12000000</span><span>12000000</span><span>10000000</span><span>10000000</span><span>10000000</span><span>10000000</span><span>10000000</span><span>10000000</span><span>10000000</span><span>10000000</span></div>
-</div>            </div>
+<div class="keys" style="display:none" title="/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/1"><span>31127</span><span>37579</span><span>48974</span><span>52513</span><span>57229</span><span>72451</span><span>112062</span><span>114514</span><span>134936</span><span>140032</span><span>140748</span><span>148751</span><span>174915</span><span>197880</span><span>313106</span><span>432160</span><span>546253</span><span>585347</span><span>636314</span><span>642689</span><span>686333</span></div>
+</div>            <div class="table-footer">
+                <a href="/campeonato-brasileiro-serie-a/vertragsloseSpieler/wettbewerb/BRA1/saison_id/2023/plus/">
+                    Visão compacta                </a>
+            </div>
         </div>
     </div>
     </div>
@@ -1807,15 +1169,15 @@ function tmEvent(category, action, label) {
 <tm-consent type="pubmatic" no-checkbox embed="PHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPgogICAgICAgICAgICAgICAgICAgICAgICB2YXIgUFdUPXt9OwogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZ29vZ2xldGFnID0gZ29vZ2xldGFnIHx8IHt9OwogICAgICAgICAgICAgICAgICAgICAgICBnb29nbGV0YWcuY21kID0gZ29vZ2xldGFnLmNtZCB8fCBbXTsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGdwdFJhbiA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICBQV1QuanNMb2FkZWQgPSAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2FkR1BUKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBsb2FkR1BUID0gZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWdwdFJhbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdwdFJhbiA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGdhZHMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgdXNlU1NMID0gJ2h0dHBzOicgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2w7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZ2Fkcy5zcmMgPSAodXNlU1NMID8gJ2h0dHBzOicgOiAnaHR0cDonKSArICcvL3NlY3VyZXB1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC90YWcvanMvZ3B0LmpzJzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgbm9kZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub2RlLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGdhZHMsIG5vZGUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgICAgICAvLyBGYWlsc2FmZSB0byBjYWxsIGdwdAogICAgICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGxvYWRHUFQsIDUwMCk7CgogICAgICAgICAgICAgICAgICAgICAgICAoZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcHVybCA9IHdpbmRvdy5sb2NhdGlvbi5ocmVmOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHVybCA9ICcvL2Fkcy5wdWJtYXRpYy5jb20vQWRTZXJ2ZXIvanMvcHd0LzE2MzIyOS8xMDEwMyc7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcHJvZmlsZVZlcnNpb25JZCA9ICcnOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYocHVybC5pbmRleE9mKCdwd3R2PScpPjApewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciByZWdleHAgPSAvcHd0dj0oLio/KSgmfCQpL2c7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgbWF0Y2hlcyA9IHJlZ2V4cC5leGVjKHB1cmwpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYobWF0Y2hlcy5sZW5ndGggPj0gMiAmJiBtYXRjaGVzWzFdLmxlbmd0aCA+IDApewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGVWZXJzaW9uSWQgPSAnLycrbWF0Y2hlc1sxXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHd0YWRzID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3dGFkcy5hc3luYyA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3dGFkcy50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3dGFkcy5zcmMgPSB1cmwrcHJvZmlsZVZlcnNpb25JZCsnL3B3dC5qcyc7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgbm9kZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vZGUucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUod3RhZHMsIG5vZGUpOwogICAgICAgICAgICAgICAgICAgICAgICB9KSgpOwogICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0PgogICAgICAgICAgICAgICAgICAgIA=="></tm-consent><tm-consent type="googleadvertising" no-checkbox embed="PHNjcmlwdCAgc3JjPSJodHRwczovL3NlY3VyZXB1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC90YWcvanMvZ3B0LmpzIiBhc3luYz0iYXN5bmMiPjwvc2NyaXB0Pg=="></tm-consent>
 <tm-consent type="googleadvertising" no-checkbox embed="PHNjcmlwdCAgc3JjPSJodHRwczovL2MuYW1hem9uLWFkc3lzdGVtLmNvbS9hYXgyL2Fwc3RhZy5qcyIgYXN5bmM9ImFzeW5jIj48L3NjcmlwdD4="></tm-consent>
 <script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/subnavigation/bundle.js"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1722867799"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-menu.min.js?lm=1722867798"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/vendors.min.js?lm=1722867798"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/aa69c6e9c51f1e811847082c63633956/gridview/jquery.yiigridview.js?lm=1723188202"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-menu.min.js?lm=1723188200"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/vendors.min.js?lm=1723188200"></script>
 <script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/domain-switcher/bundle.js"></script>
 <script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/consent/bundle.js"></script>
 <script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/userbox/bundle.js"></script>
 <script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/live-match-count/bundle.js"></script>
 <script type="text/javascript" src="https://tmsi.akamaized.net/js/svelte-components/domain-note/bundle.js"></script>
-<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-skyscraper.min.js?lm=1722867798"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/custom/tm-skyscraper.min.js?lm=1723188200"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 	var loginUrl='/profil/login';
@@ -1825,7 +1187,7 @@ function tmEvent(category, action, label) {
 	var getUserID = '';
 
 jQuery(function($) {
-jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'page','afterAjaxUpdate':function() {window.LazyLoadInstance.update(); tmTrackingAndAds(); document.dispatchEvent(new CustomEvent("tmInitTooltip"));}});
+jQuery('#yw1').yiiGridView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'grid\x2Dview\x2Dloading','filterClass':'filters','tableClass':'items','selectableRows':1,'enableHistory':false,'updateSelector':'\x7Bpage\x7D,\x20\x7Bsort\x7D','filterSelector':'\x7Bfilter\x7D','pageVar':'page'});
 });
 /*]]>*/
 </script>

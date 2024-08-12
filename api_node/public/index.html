@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de eventos</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+<body>
+    <div class="form">
+        <h3>
+            Se cadastre para ser avisado um jogador que atenda seu filtro esteja disponivel
+        </h3>
+        <form id="playerForm" action="/notify" method="post">
+            <div class="column-wrapper">
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="column-wrapper">
+                <label for="telefone">Telefone:</label>
+                <input type="text" id="telefone" name="name" required>
+            </div>
+            <div class="input-wrapper">
+                <label>Valor de Mercado ($):</label>
+                <div class="range-wrapper">
+                    <input placeholder="Minimo" type="number" id="playerMarketValueMin" name="playerMarketValueMin" min="0">
+                    <span class="material-symbols-outlined">
+                        arrow_range
+                    </span>
+                    <input placeholder="Maximo" type="number" id="playerMarketValueMax" name="playerMarketValueMax" max="999999999">
+                </div>
+            </div>
+
+            <label for="position">Posição do Jogador:</label>
+            <select id="position" name="position">
+                <option value="" selected>Selecione a posição</option>
+                <option value="Goleiro">Goleiro</option>
+                <option value="Defensor">Defensor</option>
+                <option value="Meio-Campo">Meio-Campo</option>
+                <option value="Atacante">Atacante</option>
+            </select>
+
+            <label for="liga">Liga:</label>
+            <select id="liga" name="liga">
+                <option value="" selected>Selecione a liga</option>
+                <option value="Campeonato Brasileiro Série A">Campeonato Brasileiro Série A</option>
+                <option value="Superliga">Superliga Argentina</option>
+                <option value="LaLiga">La Liga</option>
+                <option value="Premier League">Premier League</option>
+                <option value="Bundesliga">Bundesliga</option>
+                <option value="Ligue 1">Ligue 1</option>
+            </select>
+
+            <div class="button">
+                <button type="submit">Enviar</button>
+            </div>
+           
+        </form>
+    </div>
+    <script src="./js/script.js"></script>
+</body>
+</html>

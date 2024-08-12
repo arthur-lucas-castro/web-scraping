@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variação do Valor de Mercado por Liga</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        #chart {
+            display: flex;
+            justify-content: center;
+        }
+
+        svg {
+            font-family: Arial, sans-serif;
+        }
+
+        .x-axis path,
+        .x-axis line,
+        .y-axis path,
+        .y-axis line {
+            stroke: #ccc;
+        }
+
+        rect {
+            transition: fill 0.2s ease;
+        }
+
+        rect:hover {
+            fill: #1f77b4;
+        }
+    </style>
+</head>
+<body>
+    <h2>Variação do Valor de Mercado Médio dos Jogadores por Liga</h2>
+    <div id="chart"></div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        fetch('/jogadores-por-liga')
+            .then(response => response.json())
+            .then(data => {
+                const margin = { top: 20, right: 30, bottom: 40, left: 90 },
+                    width = 800 - margin.left - margin.right,
+                    height = 400 - margin.top - margin.bottom;
+
+                const svg = d3.select("#chart")
+                    .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+                const x = d3.scaleLinear()
+                    .domain([0, d3.max(data, d => d.media)])
+                    .range([0, width]);
+
+                const y = d3.scaleBand()
+                    .domain(data.map(d => d.liga))
+                    .range([0, height])
+                    .padding(0.1);
+
+                svg.selectAll("rect")
+                    .data(data)
+                    .enter()
+                    .append("rect")
+                    .attr("x", x(0))
+                    .attr("y", d => y(d.liga))
+                    .attr("width", d => x(d.media))
+                    .attr("height", y.bandwidth())
+                    .attr("fill", "#69b3a2");
+
+                svg.append("g")
+                    .attr("class", "x-axis")
+                    .attr("transform", `translate(0, ${height})`)
+                    .call(d3.axisBottom(x));
+
+                svg.append("g")
+                    .attr("class", "y-axis")
+                    .call(d3.axisLeft(y));
+            })
+            .catch(error => console.error('Erro ao carregar os dados:', error));
+    </script>
+</body>
+</html>

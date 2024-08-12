@@ -1,14 +1,17 @@
+require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
+const path = require('path');
+
 const { sendMessage } = require('./notifyService');
 
-
 const app = express();
-const port = 3000;
+const port = process.env.PORT;
+app.use(express.static(path.join(__dirname, 'public')));
 
 // Dados armazenados em memória
 let playersData = [];
-//{nome: "string", filtros: {posicao: "", nacionalidade: "", maxValue: "", minValue: "", maxTempoSemJogar: ""}}
+// { nome: "string", filtros: {posicao: "", nacionalidade: "", maxValue: "", minValue: "", maxTempoSemJogar: ""}}
 let userRegister = []
 
 app.use(bodyParser.json());
@@ -16,168 +19,108 @@ app.use(bodyParser.json());
 
 // Endpoint para receber e salvar dados
 app.post('/data', (req, res) => {
+    const { jogadores } = req.body;
 
-    const {data} = req.body;
-
-    data.map(jogador => {
-        userRegister.map(user => {
+    userRegister.map(user => {
+        let jogadoresEncontrados = []
+        jogadores.map(jogador => {
             if (verificarJogador(jogador, user.filtro)) {
-                sendMessage(user.telefone, "jogador encontrado" )
+                jogadoresEncontrados.push(jogador)
             }
         });
+        if(jogadoresEncontrados.length > 0){
+            console.log(jogadoresEncontrados)
+            sendMessage(user, jogadoresEncontrados )
+        }
+
     })
-    
-    playersData.push(...data);
+
+    jogadores.forEach(novoJogador => {
+        adicionarOuAtualizarJogador(novoJogador)
+    })
 
     res.status(200).json({ message: playersData });
 });
 
+function adicionarOuAtualizarJogador(novoJogador) {
+    // Verificar se o jogador já existe na lista
+    const index = playersData.findIndex(jogador => 
+        jogador.nome.toUpperCase()  === novoJogador.nome.toUpperCase() &&
+         jogador.nacionalidade[0].toUpperCase()  === novoJogador.nacionalidade[0].toUpperCase() 
+    );
+
+    if (index !== -1) {
+        playersData[index] = { ...playersData[index], ...novoJogador };
+    } else {
+        playersData.push(novoJogador);
+    }
+}
+
 function verificarJogador(jogador, regra) {
-    const atendeNacionalidade = regra.nacionalidade ? jogador.nacionalidade === regra.nacionalidade : true;
+
+    const atendeLiga = regra.liga ? jogador.liga.toLowerCase() === regra.liga.toLowerCase()  : true;
+    const atendePosicao = regra.posicao ? jogador.posicao.toLowerCase().trim() === regra.posicao.toLowerCase().trim()  : true
+
     const atendeValorMinimo = regra.valorMinimo ? jogador.valorMercado >= regra.valorMinimo : true;
     const atendeValorMaximo = regra.valorMaximo ? jogador.valorMercado <= regra.valorMaximo : true;
 
-    return atendeNacionalidade && atendeValorMinimo && atendeValorMaximo;
+    return atendeLiga && atendePosicao && atendeValorMinimo && atendeValorMaximo;
 }
+
+app.get('/jogadores-por-liga', (req, res) => {
+    const valoresPorLiga = {};
+
+    playersData.forEach(jogador => {
+        if (!valoresPorLiga[jogador.liga]) {
+            valoresPorLiga[jogador.liga] = [];
+        }
+        valoresPorLiga[jogador.liga].push(jogador.valorMercado);
+    });
+
+    const mediaValoresPorLiga = Object.keys(valoresPorLiga).map(liga => {
+        const total = valoresPorLiga[liga].reduce((acc, valor) => acc + valor, 0);
+        const media = total / valoresPorLiga[liga].length;
+        return { liga, media };
+    });
+
+    res.json(mediaValoresPorLiga);
+});
 
 
 // Endpoint para exibir gráfico como HTML
 app.get('/chart', (req, res) => {
+
     if (playersData.length === 0) {
         return res.status(400).json({ error: 'No data available' });
     }
-    const data = playersData.reduce((acc, jogador) => {
-        acc[jogador.nacionalidade] = (acc[jogador.nacionalidade] || 0) + 1;
-        return acc;
-    }, {});
+    res.sendFile(path.join(__dirname,'public', 'chart2.html'));
+});
 
-    const nacionalidades = Object.keys(data);
-    const valores = Object.values(data);
+app.get('/forms', (req, res) => {
 
-    let chartHtml = `
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Jogadores sem contrato por país</title>
-        <script src="https://d3js.org/d3.v7.min.js"></script>
-    </head>
-    <body>
-        <h1>Jogadores sem contrato por país</h1>
-        <div id="chart"></div>
-        <script>
-            const data = ${JSON.stringify(data)};
-            const width = 500, height = 500, radius = Math.min(width, height) / 2;
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
 
-            const color = d3.scaleOrdinal(d3.schemeCategory10);
+app.get('/players-data', (req, res) => {
+    const playersByCountry = {};
 
-            const svg = d3.select("#chart")
-                .append("svg")
-                .attr("width", width)
-                .attr("height", height)
-                .append("g")
-                .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+    playersData.forEach(player => {
+        if (!playersByCountry[player.nacionalidade[0]]) {
+            playersByCountry[player.nacionalidade[0]] = 0;
+        }
+        playersByCountry[player.nacionalidade[0]]++;
+    });
 
-            const pie = d3.pie().value(d => d[1]);
-
-            const arc = d3.arc()
-                .innerRadius(0)
-                .outerRadius(radius);
-
-            const arcs = svg.selectAll("arc")
-                .data(pie(Object.entries(data)))
-                .enter()
-                .append("g")
-                .attr("class", "arc")
-                .on("click", function(event, d) {
-                    window.location.href = "/jogadores/" + d.data[0];
-                });
-
-            arcs.append("path")
-                .attr("d", arc)
-                .attr("fill", d => color(d.data[0]));
-
-            arcs.append("text")
-                .attr("transform", d => "translate(" + arc.centroid(d) + ")")
-                .attr("text-anchor", "middle")
-                .text(d => d.data[0]);
-
-            // Adiciona legenda
-            const legend = svg.append("g")
-                .attr("transform", "translate(" + (radius + 20) + "," + (-radius) + ")")
-                .selectAll("g")
-                .data(Object.entries(data))
-                .enter().append("g")
-                .attr("transform", (d, i) => "translate(0," + i * 20 + ")");
-
-            legend.append("rect")
-                .attr("width", 18)
-                .attr("height", 18)
-                .attr("fill", d => color(d[0]));
-
-            legend.append("text")
-                .attr("x", 24)
-                .attr("y", 9)
-                .attr("dy", ".35em")
-                .text(d => d[0]);
-        </script>
-    </body>
-    </html>`;
-
-    res.send(chartHtml);
+    res.json(playersByCountry);
 });
 
 app.post('/notify', (req, res) => {
-    const { nome, telefone, filtro } = req.body;
 
-    const newRegister = {
-        nome: nome,
-        telefone: telefone,
-        filtro: {
-            nacionalidade: filtro.nacionalidade || null,
-            valorMinimo: filtro.valorMinimo || null,
-            valorMaximo: filtro.valorMaximo || null
-        }
-    };
+    userRegister.push(req.body);
 
-    // Adicionando a nova regra à lista de regras
-    userRegister.push(newRegister);
-
-    console.log('Nova regra cadastrada:', newRegister);
-    res.status(200).json({ message: 'Regra cadastrada com sucesso', regra: newRegister });
+    res.status(200).json({ message: 'Regra cadastrada com sucesso', regra: req.body });
 });
 
-// Endpoint para listar jogadores por nacionalidade
-app.get('/jogadores/:nacionalidade', (req, res) => {
-    const nacionalidade = req.params.nacionalidade;
-    const jogadoresFiltrados = playersData.filter(jogador => jogador.nacionalidade === nacionalidade);
-
-    let jogadoresHtml = `
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Jogadores de ${nacionalidade}</title>
-    </head>
-    <body>
-        <h1>Jogadores de ${nacionalidade}</h1>
-        <ul>
-    `;
-
-    jogadoresFiltrados.forEach(jogador => {
-        jogadoresHtml += `<li>${jogador.nome} - ${jogador.posicao} - Valor de Mercado: ${jogador.valorMercado}</li>`;
-    });
-
-    jogadoresHtml += `
-        </ul>
-        <a href="/chart">Voltar ao gráfico</a>
-    </body>
-    </html>`;
-
-    res.send(jogadoresHtml);
-});
 
 
 app.listen(port, () => {
