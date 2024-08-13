@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-# Nome do arquivo que contém o conteúdo da página
 input_file = "pagina_conteudo.txt"
-
 
 def get_nacionalidades(colunaNacionalidade):
     nacionalidades = []
@@ -29,7 +27,6 @@ def get_valor_mercado_numerico(valor_str):
         valor_numerico = float(valor_str.replace("mi.€", "")) * 1_000_000
 
     return int(valor_numerico)
-
 
 def clean_data(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -60,8 +57,7 @@ def clean_data(html_content):
                     "valorMercado": get_valor_mercado_numerico(colunas[11].text),
                     "liga": liga.text.strip()
                 }
-                jogadores.append(jogador)
-    
+                jogadores.append(jogador)    
     return jogadores
 
 with open(input_file, 'r', encoding='utf-8') as file:
@@ -69,9 +65,7 @@ with open(input_file, 'r', encoding='utf-8') as file:
 
 file.close()
 
-# Limpar os dados
 cleaned_content = clean_data(html_content)
-
 
 url = "http://node-api:3000/data"
 

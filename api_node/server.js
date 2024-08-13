@@ -84,8 +84,6 @@ app.get('/jogadores-por-liga', (req, res) => {
     res.json(mediaValoresPorLiga);
 });
 
-
-// Endpoint para exibir gráfico como HTML
 app.get('/chart', (req, res) => {
 
     if (playersData.length === 0) {
