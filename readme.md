@@ -20,6 +20,15 @@ Para iniciar a aplicação, execute o seguinte comando no terminal:
 docker compose up --build 
 ```
 
+é necessario criar um arquivo .env no path "/api_node" seguinte formato:
+
+```bash
+PORT=3000
+EMAIL = <email_remetente>
+SENHA_EMAIL = <senha_email_remetente>
+
+```
+
 Para ver o grafico, acesse a rota: /chart
 
 Para ver o formulario de cadastro de evento acesse a rota: /forms
