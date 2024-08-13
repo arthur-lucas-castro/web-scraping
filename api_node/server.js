@@ -11,13 +11,13 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Dados armazenados em memória
 let playersData = [];
-// { nome: "string", filtros: {posicao: "", nacionalidade: "", maxValue: "", minValue: "", maxTempoSemJogar: ""}}
+// {"nome": string, "posicao": string, "timeAnterior": string, "nacionalidade": [string], 
+//   "jogosUltimaTemporada": int, "golsUltimaTemporada": int, "dataUltimoJogo": string,
+//   "valorMercado": int, "liga": string}
 let userRegister = []
 
 app.use(bodyParser.json());
 
-
-// Endpoint para receber e salvar dados
 app.post('/data', (req, res) => {
     const { jogadores } = req.body;
 
@@ -29,8 +29,7 @@ app.post('/data', (req, res) => {
             }
         });
         if(jogadoresEncontrados.length > 0){
-            console.log(jogadoresEncontrados)
-            sendMessage(user, jogadoresEncontrados )
+            sendMessage(user, jogadoresEncontrados)
         }
 
     })
@@ -43,7 +42,6 @@ app.post('/data', (req, res) => {
 });
 
 function adicionarOuAtualizarJogador(novoJogador) {
-    // Verificar se o jogador já existe na lista
     const index = playersData.findIndex(jogador => 
         jogador.nome.toUpperCase()  === novoJogador.nome.toUpperCase() &&
          jogador.nacionalidade[0].toUpperCase()  === novoJogador.nacionalidade[0].toUpperCase() 
@@ -93,25 +91,12 @@ app.get('/chart', (req, res) => {
     if (playersData.length === 0) {
         return res.status(400).json({ error: 'No data available' });
     }
-    res.sendFile(path.join(__dirname,'public', 'chart2.html'));
+    res.sendFile(path.join(__dirname,'public', 'chart.html'));
 });
 
 app.get('/forms', (req, res) => {
 
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
-});
-
-app.get('/players-data', (req, res) => {
-    const playersByCountry = {};
-
-    playersData.forEach(player => {
-        if (!playersByCountry[player.nacionalidade[0]]) {
-            playersByCountry[player.nacionalidade[0]] = 0;
-        }
-        playersByCountry[player.nacionalidade[0]]++;
-    });
-
-    res.json(playersByCountry);
 });
 
 app.post('/notify', (req, res) => {

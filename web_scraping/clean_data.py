@@ -4,8 +4,6 @@ import requests
 # Nome do arquivo que contém o conteúdo da página
 input_file = "pagina_conteudo.txt"
 
-# Nome do arquivo onde o conteúdo limpo será salvo
-output_file = "conteudo_limpo.txt"
 
 def get_nacionalidades(colunaNacionalidade):
     nacionalidades = []
@@ -18,7 +16,6 @@ def get_valor_mercado_numerico(valor_str):
     valor_str = valor_str.replace(" ", "").lower()
     valor_numerico = 0
     
-
     if not valor_str or valor_str == "-":
         return 0
 
@@ -33,20 +30,18 @@ def get_valor_mercado_numerico(valor_str):
 
     return int(valor_numerico)
 
-# Função para limpar os dados
+
 def clean_data(html_content):
-    # Parse o conteúdo HTML
     soup = BeautifulSoup(html_content, 'html.parser')
     
     jogadores = []
 
-    # Remover scripts e styles
     for script_or_style in soup(['script', 'style']):
         script_or_style.decompose()
     
     tabela = soup.find('table', class_='items')
     liga = soup.find('div', class_='data-header__headline-container')
-    print(liga.text)
+
     if tabela:
             linhas = tabela.find_all('tr')
             for linha in linhas[1:]:
@@ -69,19 +64,17 @@ def clean_data(html_content):
     
     return jogadores
 
-# Ler o conteúdo do arquivo
 with open(input_file, 'r', encoding='utf-8') as file:
     html_content = file.read()
+
+file.close()
 
 # Limpar os dados
 cleaned_content = clean_data(html_content)
 
-# Salvar o conteúdo limpo em um novo arquivo
-with open(output_file, 'w', encoding='utf-8') as file:
-    file.write(str(cleaned_content))
 
 url = "http://node-api:3000/data"
-#url = "http://localhost:3000/data"
+
 data = { "jogadores": cleaned_content}
 
 response = requests.post(url, json=data)

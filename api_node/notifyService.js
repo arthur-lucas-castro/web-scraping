@@ -1,24 +1,49 @@
-// Download the helper library from https://www.twilio.com/docs/node/install
-const twilio = require("twilio"); // Or, for ESM: import twilio from "twilio";
+const nodemailer = require('nodemailer');
 
-// Find your Account SID and Auth Token at twilio.com/console
-// and set the environment variables. See http://twil.io/secure
-const accountSid = 'ACd633e87c46f1b4923dc5fe825faa2f88';
-const authToken = '76ae66ffbab8515664e742ce56a700e6';
-const client = twilio(process.env.ACCOUNT_SID, process.env.AUTH_TOKEN);
 
 async function sendMessage(destinatario, jogadores) {
-    //gpt criar mensagem
+    const assunto = 'Novo jogador na área!'
+    let mensagemBase = `Ola ${destinatario.nome}! \n Esses jogadores podem interessar a voce: \n `
 
-    console.log(jogadores)
-  /*
-    const message = await client.messages.create({
-    body: "mensagem teste",
-    from: "+19862108806",
-    to: `+55${destinatario.telefone}`,
-  });
-    */
-  console.log("jogador encontrado");
+    try {
+        let transporter = nodemailer.createTransport({
+            host: 'smtp-mail.outlook.com',
+            port: 587,
+            secure: false,
+            auth: {
+                user: process.env.EMAIL,
+                pass: process.env.SENHA_EMAIL
+            },
+            tls: {
+                ciphers: 'SSLv3'
+            }
+        });
+        jogadores.map(jogador => {
+            mensagemBase += `\n\n ----------------------------------------------------------- \n\n
+                    Nome: ${jogador.nome}\n 
+                    Posição: ${jogador.posicao}\n  
+                    Ultimo Time: ${jogador.timeAnterior}\n
+                    Jogos na ultima temporada: ${jogador.jogosUltimaTemporada}\n
+                    Gols na ultima temporada: ${jogador.golsUltimaTemporada}\n
+                    Data ultimo jogo: ${jogador.dataUltimoJogo}\n
+                    Valor de mercado: ${jogador.valorMercado}\n
+                    liga: ${jogador.liga}\n
+                `
+        })
+
+        let mailOptions = {
+            from: 'trabArthurCastro@outlook.com',
+            to: destinatario.email, 
+            subject: assunto, 
+            text: mensagemBase, 
+        };
+
+        let info = await transporter.sendMail(mailOptions);
+
+        console.log('Email enviado: %s', info.messageId);
+    } catch (error) {
+        console.error('Erro ao enviar email:', error);
+    }
 }
 
 module.exports = { sendMessage }

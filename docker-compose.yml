@@ -13,7 +13,7 @@ services:
 
   python-post:
     build: 
-      context: .
+      context: ./web_scraping
       dockerfile: dockerfile
     container_name: python-post
     networks:

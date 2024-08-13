@@ -1,7 +1,7 @@
 document.getElementById('playerForm').addEventListener('submit', function(event) {
     event.preventDefault();
     const name = document.getElementById('name').value;
-    const telefone = document.getElementById('telefone').value;
+    const email = document.getElementById('email').value;
     const playerMarketValueMin = document.getElementById('playerMarketValueMin').value;
     const playerMarketValueMax = document.getElementById('playerMarketValueMax').value;
     const position =  document.getElementById('position').value;
@@ -14,7 +14,7 @@ document.getElementById('playerForm').addEventListener('submit', function(event)
 
     const playerData = {
         "nome": name,
-        "telefone": telefone,
+        "email": email,
         "filtro": {
             "liga": liga ? liga : null ,
             "posicao": position ? position : null,

@@ -3,102 +3,89 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jogadores por País</title>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-</head>
-<body>
-    <h2>Jogadores sem contrato por País</h2>
-    <div id="chart"></div>
-
-    <script>
-        const playersByCountry = {}; // Esta variável será preenchida pelos dados da API
-
-        // Função para gerar o gráfico de barras
-        function generateBarChart(data) {
-            const countries = Object.keys(data);
-            const values = Object.values(data);
-
-            const margin = {top: 40, right: 150, bottom: 100, left: 60};
-            const width = 800 - margin.left - margin.right;
-            const height = 400 - margin.top - margin.bottom;
-
-            const svg = d3.select("#chart")
-                .append("svg")
-                .attr("width", width + margin.left + margin.right)
-                .attr("height", height + margin.top + margin.bottom)
-                .append("g")
-                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-            const x = d3.scaleBand()
-                .domain(countries)
-                .range([0, width])
-                .padding(0.1);
-
-            svg.append("g")
-                .attr("transform", "translate(0," + height + ")")
-                .call(d3.axisBottom(x))
-                .selectAll("text")
-                .attr("transform", "rotate(-45)")
-                .style("text-anchor", "end");
-
-            const y = d3.scaleLinear()
-                .domain([0, d3.max(values)])
-                .nice()
-                .range([height, 0]);
-
-            svg.append("g")
-                .call(d3.axisLeft(y));
-
-            const color = d3.scaleOrdinal(d3.schemeCategory10);
-
-            svg.selectAll(".bar")
-                .data(countries)
-                .enter()
-                .append("rect")
-                .attr("class", "bar")
-                .attr("x", d => x(d))
-                .attr("y", d => y(data[d]))
-                .attr("width", x.bandwidth())
-                .attr("height", d => height - y(data[d]))
-                .attr("fill", d => color(d));
-
-            svg.selectAll(".text")
-                .data(countries)
-                .enter()
-                .append("text")
-                .attr("class", "label")
-                .attr("x", d => x(d) + x.bandwidth() / 2)
-                .attr("y", d => y(data[d]) - 5)
-                .attr("text-anchor", "middle")
-                .text(d => data[d]);
-
-            // Legenda
-            const legend = svg.selectAll(".legend")
-                .data(countries)
-                .enter()
-                .append("g")
-                .attr("class", "legend")
-                .attr("transform", (d, i) => "translate(0," + i * 20 + ")");
-
-            legend.append("rect")
-                .attr("x", width + 20)
-                .attr("width", 18)
-                .attr("height", 18)
-                .style("fill", color);
-
-            legend.append("text")
-                .attr("x", width + 45)
-                .attr("y", 9)
-                .attr("dy", ".35em")
-                .style("text-anchor", "start")
-                .text(d => d);
+    <title>Variação do Valor de Mercado por Liga</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
         }
 
-        // Chamar a API para obter os dados dos jogadores
-        fetch('/players-data')
+        h2 {
+            text-align: center;
+        }
+
+        #chart {
+            display: flex;
+            justify-content: center;
+        }
+
+        svg {
+            font-family: Arial, sans-serif;
+        }
+
+        .x-axis path,
+        .x-axis line,
+        .y-axis path,
+        .y-axis line {
+            stroke: #ccc;
+        }
+
+        rect {
+            transition: fill 0.2s ease;
+        }
+
+        rect:hover {
+            fill: #1f77b4;
+        }
+    </style>
+</head>
+<body>
+    <h2>Variação do Valor de Mercado Médio dos Jogadores por Liga</h2>
+    <div id="chart"></div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        fetch('/jogadores-por-liga')
             .then(response => response.json())
             .then(data => {
-                generateBarChart(data);
+                const margin = { top: 20, right: 30, bottom: 40, left: 90 },
+                    width = 800 - margin.left - margin.right,
+                    height = 400 - margin.top - margin.bottom;
+
+                const svg = d3.select("#chart")
+                    .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+                const x = d3.scaleLinear()
+                    .domain([0, d3.max(data, d => d.media)])
+                    .range([0, width]);
+
+                const y = d3.scaleBand()
+                    .domain(data.map(d => d.liga))
+                    .range([0, height])
+                    .padding(0.1);
+
+                svg.selectAll("rect")
+                    .data(data)
+                    .enter()
+                    .append("rect")
+                    .attr("x", x(0))
+                    .attr("y", d => y(d.liga))
+                    .attr("width", d => x(d.media))
+                    .attr("height", y.bandwidth())
+                    .attr("fill", "#69b3a2");
+
+                svg.append("g")
+                    .attr("class", "x-axis")
+                    .attr("transform", `translate(0, ${height})`)
+                    .call(d3.axisBottom(x));
+
+                svg.append("g")
+                    .attr("class", "y-axis")
+                    .call(d3.axisLeft(y));
             })
             .catch(error => console.error('Erro ao carregar os dados:', error));
     </script>
